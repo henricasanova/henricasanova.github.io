@@ -80,12 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "H. Casanova"
+  name             : "Henri Casanova"
   avatar           : "profile.png"
   bio              : "Professor"
   location         : 
   employer         :
   pubmed           : 
+  dblp             : "https://dblp.uni-trier.de/pers/hd/c/Casanova:Henri"
   googlescholar    : "https://scholar.google.com/citations?user=lt3K0RcAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Henri_Casanova"
