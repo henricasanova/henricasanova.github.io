@@ -1,0 +1,284 @@
+<html>
+<head>
+<title>Installing Ubuntu on VirtualBox How To</title>
+<link REL=stylesheet HREF="general.css" TYPE="text/css">
+</head>
+
+<body text = "#222222" bgcolor="#eeeeee">
+
+<h2 class="title">
+&nbsp;Installing Ubuntu on VirtualBox<br>
+</h2>
+
+Below are translations of this page. Note that these translations many be
+out of date. The last update to the English version was on <font color="red">October 13th 2015</font>.
+<hr>
+
+<a href="http://www.azoft.com/people/seremina/edu/ubuntu-rom.html">View this
+page in Romanian</a> courtesy of azoft.
+<hr>
+<a href="http://autoersatzteile.de/blog/instalacja-ubuntu-na-virtualbox">View this
+page in Polish</a> courtesy of Valeria Aleksandrova
+<hr>
+<a href="http://cloudlakes.com/instalirane-na-ubuntu-na-virtualbox/">Bulgarian Translation</a> courtesy of Cloud Lakes Team.
+<hr>
+<a href="http://www.autoteiledirekt.de/science/instalace-ubuntu-na-virtualbox">Czech Translation</a> courtesy of Kate Bondareva
+</hr>
+<hr>
+<a href="http://www.autoteiledirekt.de/science/installing-ubuntu-on-virtualbox">French Translation</a> courtesy of Kate Bondareva
+</hr>
+
+<!--
+<a href="http://jbs24.com/blog/instalacia-ubuntu-na-virtualbox/">Slovakian translation</a> created by Blahoslav Konopka
+</hr>
+<hr>
+-->
+
+<!--
+<a href="http://offclouds.com/edu/instaliranje-ubuntu-na-virtualbox/"> Croatian translation </a> of this page provided by Blago Perkovich
+</hr>
+-->
+
+<hr>
+<a href="https://someblogscience.com/virtualbox-ubuntu.html">Swedish translation</a> of this page courtesy of Mary Stefanova.
+</hr>
+<hr>
+<a href="http://sc-journal.com/ubuntu-telepitese-a-virtualbox/">Hungarian translation</a> of this page courtesy of Elana Pavlet.
+</hr>
+<hr>
+<a href="http://eustudiesweb.com/installing-ubuntu-on-virtualbox/">Ukrainian translation</a> of this page courtesy of Anna Matesh.
+</hr>
+<hr>
+<a href="http://sciencevobe.com/2016/05/31/installing-ubuntu-on-virtualbox/">Macedonian translation</a> of this page courtesy of Katerina Nestiv.
+</hr>
+<hr>
+<a href="http://cjpnet.com.br/home/blog/29-installing-ubuntu-on-virtualbox">Portuguese translation</a> of this page courtesy of Jo&atilde;o Pessolato.
+</hr>
+<hr>
+<a href="https://www.chameleonjohn.com/translations/VirtualBoxUbuntuHowTo-Indonesian">Indonesian translation</a> of this page courtesy of Jordan Silaen.
+</hr>
+<hr>
+<a href="https://www.autonvaraosatpro.fi/blogi/2017/04/04/asentaminen-ubuntu-paalle-virtualbox/">Finnish translation</a> of this page courtesy of Johanne Teerink.
+</hr>
+<hr>
+<a href="http://expereb.com/la-instalacion-de-ubuntu-en-virtualbox/">Spanish translation</a> of this page courtesy of Laura Mancini.
+</hr>
+<hr>
+<a href="http://eduworksdb.com/installing-ubuntu-on-virtualbox/">Uzbek translation</a> of this page courtesy of Sherali Niyazova.
+</hr>
+<hr>
+<a href="http://lpacode.com/installing-ubuntu-on-virtualbox/">Georgian translation</a> of this page courtesy of Ana Mirilashvili
+</hr>
+<hr>
+<a href="http://pro4education.com/installing-ubuntu-on-virtualbox/">Croatian translation</a> of this page courtesy of Milica Novak
+</hr>
+<hr>
+<a href="http://techglobaleducation.com/installing-ubuntu-on-virtualbox/">Estonian translation</a> of this page courtesy of Martin Aus
+</hr>
+<hr>
+<a href="http://prosciencescope.com/installere-ubuntu-pa-virtualbox/">Norwegian translation</a> of this page courtesy of Lars Olden
+</hr>
+
+<a href="http://theworkscited.com/installing-ubuntu-on-virtualbox/">Kazakh translation</a> of this page courtesy of Alana Kerimova
+</hr>
+
+<a href="https://tr-ex.me/social/?p=32">Russian translation</a> of this page courtesy of Lera Domartina
+</hr>
+
+
+
+
+
+<hr></hr>
+
+
+
+
+<h3 class="header">Disclaimer</h3>
+The instructions below provide easy steps, which students have used
+successfully to install VirtualBox and Ubuntu within VirtualBox for
+the purpose of coursework. However, <b>a lot</b> of information is
+available on the Web and Google is your friend. For everything I
+am describing here there are on-line tutorials, forums, video
+tutorials, step-by-step guides, walkthroughs, you-name-it. So if
+something doesn't work, do your own research before declaring defeat.
+
+
+<h3 class="header">Creating an Ubuntu VM</h3>
+These are the steps I followed to install Ubuntu on VirtualBox on my Intel-based MacBook Pro laptop, using Oracle VM VirtualBox Manager 5.0.4 r102546.
+<p>
+Please send feedback if you have suggestions on improving this. I don't create VMs for a living :) 
+<p> 
+<ol>
+  <li> Download an Ubuntu ISO-image  from <a href="http://www.ubuntu.com/download">here</a> (e.g., the "desktop" version). Save the ISO file (called ubuntu-X.Y-desktop-i386.iso for Ubuntu 32-bit version X.Y, or ubuntu-X.Y-desktop-amd64.iso for Ubuntu 64-bit version X.Y) somewhere on your machine. 
+  <li> Download VirtualBox from <a href="http://www.virtualbox.org/wiki/Downloads">the VirtualBox Web site</a>.
+    <ul>
+      <li> Obviously you need to select the version for your own host OS (the guest OS will be Ubuntu)
+    </ul>
+
+  <li> Install VirtualBox using the easy step-by-step installer
+    <ul>
+      <li> See the <a href="http://www.virtualbox.org/manual/UserManual.html">VirtualBox User Manual</a> for all details. (I actually never looked at it since everything is so intuitive.)
+    </ul>
+
+  <li> Start VirtualBox by double-clicking on its icon or whatever you do
+       on your OS to start an installed application.
+
+  <li> Click on the "New" blue sun-looking icon in the VirtualBox GUI to
+       create a new VM, and start following the instructions. They are very
+       detailed and self-explanatory, but I detail my steps below.
+
+  <li> Pick a name for your VM (I use something like "Ubuntu_VBox").
+  
+  <li> Select "Linux" and "Ubuntu (64-bit)" for the Operating System and Version
+       menus (the installer is smart enough to do this automatically if
+       your VM name contains the word "ubuntu"). Click "Continue".
+
+  <li> On the next panel, select a RAM size for your VM. 
+       The default should be fine, but given the RAM size these days you can likely
+       pick 1GiB (1024 MiB) as opposed to the recommended size. Click "Continue".
+
+  <li> On the next panel, select the "Create a virtual hard drive now" option.
+
+  <li> On the next panel ("Hard Drive File Type") you can leave the default setting unchanged and click "Continue".
+
+  <li> On the next panel, select "Dynamically allocated" (most likely the best choice unless
+       you're after performance).
+
+  <li> On the next panel, specify where you want the file that contains
+       your new VM's disk space to be located. I always use the default. 
+       Hit the "Create" button.
+
+
+  <li> Once you've completed the hard disk creation, your VM instance will
+       show up on the left panel of the main VirtualBox window saying "Powered
+       off". The right panel displays information about that instance.
+       Double-click on the VM instance showed on the left panel.  This will pop
+       up a window and explains to you about "mouse capture".  Essentially, if
+       you click in the running VM window the mouse will be trapped there and
+       you need to hit a key to recover your "real" mouse. Read the instructions
+       in the dialog box, they are very clear.
+
+  <li> A new panel pops up. Set the path (using the file explorer thingy)
+       to the ISO Ubuntu image file you have downloaded in Step #1.  Click "Start".
+
+  <li> At this point you're entering the Ubuntu configuration
+       (remember that your mouse may be trapped and released by hitting
+       a key.) You may see some error message about the BIOS, but in fact
+       it's just a warning, so just ignore it.  If you've installed Ubuntu
+       before, you now know what to do. If not, continue reading.
+
+  <li> The instructions below vary with every Ubuntu release, and I am too
+        lazy to update all this. 
+
+  <li> Click on "Install Ubuntu" and proceed. Selecting "Download updates while installing" is a good idea. Click on "Continue", and then click "Install Now" after selecting that it's fine to Erase the disk and install Ubuntu (this is the virtual disk, so don't panic).  If you want to customize your partitions, do that (there are many on-line tutorials about this). 
+
+  <li> The installation will take a while, but you
+       should see some moving Ubuntu progress bar.  Along the way you'll be
+       asked a few easy questions that you have to answer (time zone,
+       keyboard, etc.), as well as your name, hostname, user name, and
+       password.  These are for the Ubuntu machine, just like on a real
+       system you'd be installing.  Select the security options you want
+       (you can opt out of typing your password, you can encrypt your VM
+       hard disk, etc.).  This likely doesn't matter much for the purpose
+       of a course, but it's up to you, especially if you plan on using the
+       VM instance for a wide range of purposes.
+
+  <li> When all files have been downloaded/installed, which can take a
+       while, you have to click on "Restart". You'll have to press
+       enter to answer a question about ejecting a disk at some point (just
+       press Enter) and may seen some cryptic messages that you can most
+       likely ignore (things about IO devices). If things get frozen, fear not. 
+       Just close the Ubuntu Window, and select the "Shutdown" option. Then 
+       double-click on your VM in the main VirtualBox
+       window again (left panel). Ubuntu should start right away in a new window.
+
+  <li> You're now "in" Ubuntu.
+       The Ubuntu interface evolves and changes regularly. The package manager
+       will likely pop up and it's a good idea to update packages. What I
+       typically do then is find a way to start a Terminal (i.e., a
+       Shell), and then I'm golden.  In Ubuntu 15.04-desktop I did this by
+       clicking on the purple/vortex search button at the top left of the dock
+       and searched for the string "Terminal". I then dragged the Terminal icon onto the dock to the left, and off I go. 
+</ol>
+
+<h3 class="header"> Installing "Guest Additions"</h3>
+
+VirtualBox allows you to install additional stuff called "guest
+additions", which are basically sets of tools and device drivers that
+will improve usability (e.g., a bigger window!). You
+should absolutely install them following the following few steps
+(inspired from <a
+href="http://helpdeskgeek.com/linux-tips/install-virtualbox-guest-additions-in-ubuntu/">this
+page</a>):
+
+<ol>
+
+<li> One your VM instance is running, click in the "Devices" drop-down menu
+of VirtualBox and select the "Insert Guest Additions CD Image..." option,
+and click "Run" to confirm that you want to do this.  Then authenticate by
+typing your password (that is, the password for your user account on your
+Ubuntu VM). A terminal will open and show progress and eventually prompts
+you to "Press Return to close this window...".  (This used to be much more complicated in previous versions of Virtual Box.)
+
+<li> That's it. Now shutdown off your VM (by clicking on the shutdown icon in the top-right corner of the Ubuntu desktop) and restart it from the main VirtualBox window. Guest addition should have been installed. This affords all types of improved ergonomics (e.g., resizing the window). 
+
+</ol> 
+
+<h3 class="header"> Creating a Shared Folder</h3>
+
+One <i>very</i> convenient feature of VirtualBox is that it allows you to
+share a folder between your host (i.e., your original OS) and your guest
+(i.e., your Ubuntu VM instance). Creating a shared folder, which can only
+be done after you've installed the Guest Additions (see above) is done in
+the following steps:
+<ol>
+<li> In the "Devices" drop-down menu of VirtualBox (once your VM instance
+is running), select "Shared Folders..." and then select the "Shared Folders
+Settings..." item. This will pop up a small window.  There is a blue icon
+with a green plus sign on the right-hand side to add a new shared folder.
+Click this icon.
+
+<li> You now have a new pop-up window. As "Folder Path", select a path to
+the directory on your <b>host</b> that you want visible from your
+<b>guest</b>.  You should create a  directory on your
+host system, somewhere that's convenient, with a reasonable name (e.g., "MySharedFolder").  Using the pull-down menu for
+"Folder Path" and clicking on "Other..." you can navigate your host's file
+system and click on the folder.  You then type in a name for the shared
+folder. This is the name that will be visible from the guest (i.e., your
+Ubuntu VM instance). Let's use the same Folder name, "MySharedFolder".
+Finally, select the "Auto-mount" and "Make permanent" options in the pop-up
+window.  You will see your shared folder appear under the "Machine Folders"
+heading in the pop up.  Finally, click "OK".
+
+<li> Restart your VM instance (by clicking on the "shutdown" icon in the
+top-right corner of your Ubuntu window), and restart it from the main
+VirtualBox window.
+
+<li> Once your VM instance has restarted and you're logged in, <tt>cd</tt>
+to directory <tt>/media</tt> (typing <tt>cd /media</tt>). An <tt>ls</tt>
+should show you your shared folder (with an "sf_" in front)!
+
+<li> There is one last issue to address. The shared folder is owned by the
+administrator. This is you, but it gets annoying to always had to "sudo"
+everything that has to do with that directory. To allow you to visit that
+directory without constantly having to type your password, your username
+must be added to the "group" called vboxsf. Assuming that your username is
+"casanova", to do this you would type the command <tt>sudo usermod -a -G
+vboxsf casanova</tt> (if you forget the "-a" then bad things will happen).
+
+<li> Shutdown/restart your VM instance one last time, and you're set. From
+now on, you can always use the /media/sf_MySharedFolder/ directory to
+allow files to exist both on your own machine and within your Ubuntu VM!
+
+
+</ol> 
+
+<h3 class="header">Setting up Multiple Cores</h3>
+
+If you want your VM to have multiple cores, which is likely something you want, 
+you want to click on the Settings golden wheel after selecting your VM in the left-side
+panel, and in the System tab set the number of cores to an appropriate number.
+
+<hr>
+
