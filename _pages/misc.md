@@ -38,10 +38,6 @@ surfboards in my office </a> , how unprofessional!
 
 --- 
 
-I grow vegetables, and sometimes I pick <a href="{{base.url}}/images/bokchoy.jpg">"baby" bok choy</a> a bit too late: 
-
---- 
-
 Here is <a href="{{base.url}}/images/hana.jpg">proof</a> that I ran (a long
 time ago) the <b>Hana relay</b> with an awesome <a
 href="{{base.url}}/images/hana_team.jpg">Team</a>.<br>
