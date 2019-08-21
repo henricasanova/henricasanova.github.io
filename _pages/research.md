@@ -67,7 +67,7 @@ Recent research awards include:
   - <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1923539">Integrating core CI literacy and skills into university curricula via simulation-driven activities</a>
 National Science Foundation, 09/2019 - 08/2021
 
-  - <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1642369">WRENCH: A Simulation Workbench for Scientific Worflow Users, Developers, and Researchers</a>,
+  - <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1642369">WRENCH: A Simulation Workbench for Scientific Workflow Users, Developers, and Researchers</a>,
 National Science Foundation, 01/2017 - 12/2019.
 
 
