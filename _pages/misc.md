@@ -33,7 +33,7 @@ I dive and dabble in underwater photography. Here are a few shots:
 
 --- 
 
-I used to have a <a  href src="{{base.url}}/images/office.jpg"> piano and
+I used to have a <a href="{{base.url}}/images/office.jpg">piano and
 surfboards in my office </a> , how unprofessional!
 
 --- 
