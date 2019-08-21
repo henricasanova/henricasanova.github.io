@@ -34,9 +34,15 @@ I dive and dabble in underwater photography. Here are a few shots:
 
 --- 
 
+I grow vegetables, and sometimes bok choy gets really big. 
+
+<img src="{{base.url}}/images/bokchoy.jpg">
+
+--- 
+
 Here is <a href="{{base.url}}/images/hana.jpg">proof</a> that I ran (a long
 time ago) the <b>Hana relay</b> with an awesome <a
 href="{{base.url}}/images/hana_team.jpg">Team</a>.<br>
 
-
+---  
 
