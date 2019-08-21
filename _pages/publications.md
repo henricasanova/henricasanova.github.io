@@ -26,7 +26,7 @@ at UHM (see my
 
 <li>
     <b> MILP Formulations for Spatio-Temporal Thermal-Aware Scheduling in Cloud and HPC Datacenters</b>
-     <aa hred="{{base.url}}/files/papers/pierson_cluster2019.pdf">[PDF]</aa><br>
+     <aa href="{{base.url}}/files/papers/pierson_cluster2019.pdf">[PDF]</aa><br>
       J.-M. Pierson, P. Stolf, H. Sun, H. Casanova,   
      in <i>Cluster Computing</i>, to appear, <font color="red">2019</font>.
 </li>
@@ -34,7 +34,7 @@ at UHM (see my
 
 <li>
     <b>Accurately Simulating Energy Consumption of I/O-intensive Scientific Workflows</b>
-     <aa hred="{{base.url}}/files/papers/ferreira_da_silva_iccs2019.pdf">[PDF]</aa><br>
+     <aa href="{{base.url}}/files/papers/ferreira_da_silva_iccs2019.pdf">[PDF]</aa><br>
      R. Ferreira da Silva, A.-C. Orgerie, H. Casanova, R. Tanaka, E. Deelman, F. Suter</i>,
      in <i>Proc. of the International Conference on Computational Science (ICCS)</i>, Faro, Portugal, June <font color="red">2019</font>.
 </li>
@@ -335,7 +335,7 @@ May <font color="red">2014</font>.
   <b>Cost-Optimal Execution of Boolean Query Trees with Shared Streams</b>
   <a href="{{base.url}}/files/papers/casanova_ipdps2014.pdf">[PDF]</a>
   <br>
-  H. Casanova, L. Lim, Y. Robert, F. Vivien, D. Zaidouni,</br>
+  H. Casanova, L. Lim, Y. Robert, F. Vivien, D. Zaidouni,<br>
    in <i>Proceedings of the 28th
 IEEE International Parallel & Distributed Processing Symposium (IPDPS)</i>,
 May <font color="red">2014</font>.
@@ -759,7 +759,7 @@ International Symposium on High Performance Distributed Computing
   <b>Benefits and Drawbacks of Redundant Batch Requests</b>
   <a href="{{base.url}}/files/papers/casanova_jogc2007.pdf">[PDF - corrected version]</a>
   <br>
-  H. Casanova</br>
+  H. Casanova<br>
   in the <i>Journal of Grid Computing</i>, 5(2), 888-903, <font color="red">2007</font>.
 </li>
 
@@ -767,7 +767,7 @@ International Symposium on High Performance Distributed Computing
   <b>Characterizing Resource Availability in Enterprise Desktop Grids</b>
   <a href="{{base.url}}/files/papers/kondo_fgcs07.pdf">[PDF]</a>
   <br>
-  D. Kondo, G. Fedak, F. Cappello, H. Casanova</br>
+  D. Kondo, G. Fedak, F. Cappello, H. Casanova<br>
   in the <i>Journal of Future Generation Computer Systems (FGCS)</i>, 23(7), 888-903, <font color="red">2007</font>.
 </li>
 
@@ -776,7 +776,7 @@ International Symposium on High Performance Distributed Computing
   <b> Improving Grid Resource Allocation via Integrated Selection and Binding</b>
   <a href="{{base.url}}/files/papers/kee_sc06.pdf">[PDF]</a>
   <br>
-  Y.-S. Kee, K. Yocum, A. Chien, H. Casanova</br>
+  Y.-S. Kee, K. Yocum, A. Chien, H. Casanova<br>
 in <i>Proceedings of SC'06</i>, Tampa, 
 Florida, Nov. <font color="red">2006</font>.
 </li>
@@ -803,7 +803,7 @@ in the <i>International Journal of High Performance Computing Applications (IJHP
   <b> Measuring the Performance and Reliability of Production Computational Grids</b>
   <a href="{{base.url}}/files/papers/khalili_grid06.pdf">[PDF]</a>
   <br>
-  O. Khalili, J. He, C. Olschanowsky, A. Snavely, H. Casanova</br>
+  O. Khalili, J. He, C. Olschanowsky, A. Snavely, H. Casanova<br>
 in <i>Proceedings of the 7th IEEE/ACM International Conference on Grid Computing</i>, Barcelona, 
 Barcelona, Spain, Sept. <font color="red">2006</font>.
 </li>
@@ -811,14 +811,14 @@ Barcelona, Spain, Sept. <font color="red">2006</font>.
   <b> On the Harmfulness of Redundant Batch Requests</b>
   <a href="{{base.url}}/files/papers/hpdc_2006.pdf">[PDF]</a>
   <br>
-  H. Casanova</br>
+  H. Casanova<br>
 in <i>Proceedings of the IEEE International Symposium on High Performance Distributed Computing (HPDC-15)</i>, Paris, France, May <font color="red">2006</font>.
 </li>
 <li>
   <b> An evaluation of Job Scheduling Strategies for Divisible Loads on Grid Platforms</b>
   <a href="{{base.url}}/files/papers/cardinale_2006.pdf">[PDF]</a>
   <br>
-  Y. Cardinale, H. Casanova</br>
+  Y. Cardinale, H. Casanova<br>
 in <i>Proceedings of the High Performance Computing & Simulation Conference (HPC&S'06)</i>, Bonn, Germany, May <font color="red">2006</font>.
 </li>
 <li>
@@ -826,14 +826,14 @@ in <i>Proceedings of the High Performance Computing & Simulation Conference (HPC
 Selection and Scheduling</b>
   <a href="{{base.url}}/files/papers/zhang_ccgrid2006.pdf">[PDF]</a>
   <br>
-  Y. Zhang, A. Mandal, C. Koelbel, K. Kennedy, H. Casanova, A.  Chien</br>
+  Y. Zhang, A. Mandal, C. Koelbel, K. Kennedy, H. Casanova, A.  Chien<br>
 in <i>Proceedings of the 6th IEEE Symposium on Cluster Computing and the Grid (CCGrid'06)</i>, Singapore, May <font color="red">2006</font>.
 </li>
 <li>
   <b> Using Virtual Grids to Simplify Application Scheduling </b>
   <a href="{{base.url}}/files/papers/huang_ipdps2006.pdf">[PDF]</a>
   <br>
-  R. Huang, H. Casanova, A. Chien</br>
+  R. Huang, H. Casanova, A. Chien<br>
 in <i>Proceedings of the International Parallel and Distributed Processing Symposium (IPDPS'06) </i>, Rhodes, Greece, Apr. <font color="red">2006</font>.
 </li>
 
