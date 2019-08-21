@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## Nutshell
 
 I am in the 
 [Information & Computer Sciences Dept.](http://www.ics.hawaii.edu) at the
