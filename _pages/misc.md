@@ -34,7 +34,7 @@ I dive and dabble in underwater photography. Here are a few shots:
 
 --- 
 
-I grow vegetables, and sometimes bok choy gets really big. 
+I grow vegetables, and sometimes I pick "baby" bok choy a bit too late:
 
 <img src="{{base.url}}/images/bokchoy.jpg">
 
