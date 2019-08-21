@@ -14,7 +14,7 @@ I am a Professor in the
 of research fits broadly under the High Performance Computing umbrella, and I teach
 a range of undergraduate and undergraduate courses. 
 
-For more information see my [academic C.V.](xxxx) and the links at the very top.
+For more information see my [academic C.V.]({{ base.url }}/files/vita.pdf) and the links at the very top.
 
 ---
 ### Current Semester (Fall 2019)
