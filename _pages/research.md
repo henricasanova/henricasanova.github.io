@@ -10,9 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
----
-### Research Interests
-
 
 My research area is High Performance Computing (HPC), and in particular
 parallel and distributed computing for scientific application workloads. 
@@ -20,7 +17,7 @@ For example, I have done work in the following areas:
 
   - Application scheduling and resource management algorithms
   - Software frameworks for execution scientific applications
-  - Design of HPC systems (network topologies, fault-tolerance, physical layouts for 3-D multi-chip systems)
+  - Design of HPC systems (network topologies, physical layouts for 3-D multi-chip systems)
   - Modeling and simulation of parallel/distributed computing platforms and applications
 
 See my [Publication page]({{base.url}}/publications/) for all details.
