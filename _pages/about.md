@@ -27,5 +27,9 @@ For more information see my [academic C.V.]({{ base.url }}/files/vita.pdf) and t
 <tr><td>email: </td><td><a href="mailto:henric@hawaii.edu">henric@hawaii.edu</a></td></tr>
 <tr><td>phone: </td><td>808 956 2649</td></tr>
 <tr><td>fax: </td><td>808 956 3548</td></tr>
+<tr><td>mail: </td><td>Information & Computer Sciences<br>
+                       1680 East-West Rd, POST 317<br>
+                       Honolulu, HI 96822, USA
+            </td></tr>
 </table>
 
