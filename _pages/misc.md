@@ -31,12 +31,14 @@ I dive and dabble in underwater photography. Here are a few shots:
 </tr>
 </table>
 
+--- 
+
+I used to have a <a  href src="{{base.url}}/images/office.jpg"> piano and
+surfboards in my office </a> , how unprofessional!
 
 --- 
 
-I grow vegetables, and sometimes I pick "baby" bok choy a bit too late:
-
-<img src="{{base.url}}/images/bokchoy.jpg">
+I grow vegetables, and sometimes I pick <a href="{{base.url}}/images/bokchoy.jpg">"baby" bok choy</a> a bit too late: 
 
 --- 
 
