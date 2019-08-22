@@ -18,10 +18,10 @@ I dive and dabble in underwater photography. Here are a few shots:
 
 <table>
 <tr>
-<td> <a href="{{base.url}}/images/scuba1.jpg"> <img src="{{base.url}}/images/scuba1_small.jpg"> </a> </td>
-<td> <a href="{{base.url}}/images/scuba2.jpg"> <img src="{{base.url}}/images/scuba2_small.jpg"> </a> </td>
-<td> <a href="{{base.url}}/images/scuba3.jpg"> <img src="{{base.url}}/images/scuba3_small.jpg"> </a> </td>
-<td> <a href="{{base.url}}/images/scuba4.jpg"> <img src="{{base.url}}/images/scuba4_small.jpg"> </a> </td>
+<td> <a target="_blank" href="{{base.url}}/images/scuba/scuba1.jpg"><img src="{{base.url}}/images/scuba/scuba1_small.jpg"></a> </td>
+<td> <a target="_blank" href="{{base.url}}/images/scuba/scuba2.jpg"><img src="{{base.url}}/images/scuba/scuba2_small.jpg"></a> </td>
+<td> <a target="_blank" href="{{base.url}}/images/scuba/scuba3.jpg"><img src="{{base.url}}/images/scuba/scuba3_small.jpg"></a> </td>
+<td> <a target="_blank" href="{{base.url}}/images/scuba/scuba4.jpg"><img src="{{base.url}}/images/scuba/scuba4_small.jpg"></a> </td>
 </tr>
 <tr>
 <td>Dragon Moray Eel<br>(Oahu)</td>
@@ -33,14 +33,13 @@ I dive and dabble in underwater photography. Here are a few shots:
 
 --- 
 
-I used to have a <a href="{{base.url}}/images/office.jpg">piano and
-surfboards in my office </a> , how unprofessional!
+I used to have a <a target="_blank" href="{{base.url}}/images/office.jpg">piano and surfboards in my office </a>, how unprofessional!
 
 --- 
 
-Here is <a href="{{base.url}}/images/hana.jpg">proof</a> that I ran (a long
+Here is <a target="_blank" href="{{base.url}}/images/hana.jpg">proof</a> that I ran (a long
 time ago) the <b>Hana relay</b> with an awesome <a
-href="{{base.url}}/images/hana_team.jpg">Team</a>.<br>
+target="_blank" href="{{base.url}}/images/hana_team.jpg">Team</a>.<br>
 
 ---  
 
