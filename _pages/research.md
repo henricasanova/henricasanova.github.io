@@ -76,7 +76,7 @@ Current members:
   - Evan Hataishi (M.S.)
   - William Koch (M.S.)
 
-Alumni:
+UHM Alumni:
 
   - Ryan Tanaka (M.S. 2019, project)<br>
   - Lambert Leong (M.S. 2018, thesis)<br>
