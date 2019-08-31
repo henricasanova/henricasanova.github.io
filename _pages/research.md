@@ -20,7 +20,7 @@ For example, I have done work in the following areas:
   - Design of HPC systems (network topologies, physical layouts for 3-D multi-chip systems)
   - Modeling and simulation of parallel/distributed computing platforms and applications
 
-See my [Publication page]({{base.url}}/publications/) for all details.
+See my [publications page]({{base.url}}/publications/) for all details.
 
 ---
 ### Current Research Projects
