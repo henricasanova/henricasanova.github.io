@@ -15,12 +15,21 @@ at UHM (see my
 <hr>
 
 <li>
+    <b> Teaching Parallel and Distributed Computing Concepts in
+Simulation with WRENCH</b>
+     <aa href="{{base.url}}/files/papers/tanaka_eduhpc2019.pdf">[PDF]</aa><br>
+      R. Tanaka, H. Casanova, R. Ferreira da Silva,
+in <i>Proc. of the Workshop on Education for High-Performance Computing (EduHPC)</i>, Denver, Colorado, Nov. <font color="red">2019</font>.
+</li>
+
+
+<li>
     <b> Bridging Concepts and Practice in eScience via 
         Simulation-driven Engineering</b>
      <aa href="{{base.url}}/files/papers/ferreira_da_silva_bc2cd2019.pdf">[PDF]</aa><br>
       R. Ferreira da Silva, H. Casanova, R. Tanaka, F. Suter,
      in <i>Proc. of the Bridging from Concepts to Data and Computation for 
-        eScience Workwhop (BC2DC)</i>, Sept. <font color="red">2019</font>.
+        eScience Workwhop (BC2DC)</i>, San Diego, California, Sept. <font color="red">2019</font>.
 </li>
 
 
