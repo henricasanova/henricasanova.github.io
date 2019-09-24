@@ -44,14 +44,14 @@ in <i>Proc. of the Workshop on Education for High-Performance Computing (EduHPC)
 <li>
     <b>Accurately Simulating Energy Consumption of I/O-intensive Scientific Workflows</b>
      <aa href="{{base.url}}/files/papers/ferreira_da_silva_iccs2019.pdf">[PDF]</aa><br>
-     R. Ferreira da Silva, A.-C. Orgerie, H. Casanova, R. Tanaka, E. Deelman, F. Suter</i>,
+     R. Ferreira da Silva, A.-C. Orgerie, H. Casanova, R. Tanaka, E. Deelman, F. Suter,
      in <i>Proc. of the International Conference on Computational Science (ICCS)</i>, Faro, Portugal, June <font color="red">2019</font>.
 </li>
 
 <li>
     <b>Sparse 3-D NoCs with Inductive Coupling</b>
     <aa href="{{base.url}}/files/papers/koibuchi_dac2019.pdf">[PDF]</aa><br>
-    M. Koibuchi, L. Leong, T. Totoki, H. Matsutani, H. Amano, H. Casanova</i>,
+    M. Koibuchi, L. Leong, T. Totoki, H. Matsutani, H. Amano, H. Casanova,
         in <i>Proc. of the Design Automation Conference (DAC)</i>, Las Vegas, Texas, June <font color="red">2019</font>.
 </li>
 
@@ -61,7 +61,7 @@ in <i>Proc. of the Workshop on Education for High-Performance Computing (EduHPC)
 <li>
     <b>WRENCH: Workflow Management System Simulation Workbench</b>
     <a href="{{base.url}}/files/papers/casanova_works2018.pdf">[PDF]</a><br>
-    H. Casanova, S. Pandey, J. Oeth, R. Tanaka, F. Suter, R. Ferreira da Silva</i>,
+    H. Casanova, S. Pandey, J. Oeth, R. Tanaka, F. Suter, R. Ferreira da Silva,
 	in <i>Proc. of the Workshop on Workflows in Support of Large-Scale Science (WORKS)</i>, Dallas, Texas, Nov. <font color="red">2018</font>.
 </li>
 
@@ -69,7 +69,7 @@ in <i>Proc. of the Workshop on Education for High-Performance Computing (EduHPC)
 <li>
     <b>SMPI Courseware: Teaching Distributed-Memory Computing with MPI in Simulation</b>
     <a href="{{base.url}}/files/papers/casanova_eduhpc2018.pdf">[PDF]</a><br>
-    H. Casanova, M. Quinson, A. Legrand, F. Suter</i>,
+    H. Casanova, M. Quinson, A. Legrand, F. Suter/i>,
     in <i>Proc. of the Workshop on Education for High-Performance Computing (EduHPC)</i>, <font color="red">best paper award</font>, Dallas, Texas, Nov. <font color="red">2018</font>.
 </li>
 
