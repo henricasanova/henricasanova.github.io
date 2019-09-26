@@ -19,6 +19,7 @@ For example, I have done work in the following areas:
   - Software frameworks for execution scientific applications
   - Design of HPC systems (network topologies, physical layouts for 3-D multi-chip systems)
   - Modeling and simulation of parallel/distributed computing platforms and applications
+  - Simulation-driven parallel and distributed computing education
 
 See my [publications page]({{base.url}}/publications/) for all details.
 
