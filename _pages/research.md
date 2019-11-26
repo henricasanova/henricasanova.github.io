@@ -76,6 +76,7 @@ Current members:
  
   - Evan Hataishi (M.S.)
   - William Koch (M.S.)
+  - Wyatt Hoodes (B.S.)
 
 UHM Alumni:
 
