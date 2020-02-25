@@ -16,10 +16,15 @@ of research fits broadly under the High Performance Computing umbrella, and I te
 a range of undergraduate and graduate courses. 
 For more information see my [academic C.V.]({{ base.url }}/files/vita.pdf) and the links at the very top.
 
-## Current Semester (Fall 2019)
+## Current Semester (Spring 2020)
 
+  - On sabbatical
+
+<!--
   - [ICS 332 - Operating Systems](https://henricasanova.github.io/ics332_fall2019/)
   - *Office Hours*: Tue 10AM-2PM (UHM, POST 310C)
+-->
+
 
 ## Contact
 
