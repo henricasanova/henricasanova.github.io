@@ -43,7 +43,7 @@ in <i>Proc. of the Workshop on Education for High-Performance Computing (EduHPC)
 
 <li>
     <b>Accurately Simulating Energy Consumption of I/O-intensive Scientific Workflows</b>
-     <aa href="{{base.url}}/files/papers/ferreira_da_silva_iccs2019.pdf">[PDF]</aa><br>
+     <a href="{{base.url}}/files/papers/da_silva_iccs2019.pdf">[PDF]</a><br>
      R. Ferreira da Silva, A.-C. Orgerie, H. Casanova, R. Tanaka, E. Deelman, F. Suter,
      in <i>Proc. of the International Conference on Computational Science (ICCS)</i>, Faro, Portugal, June <font color="red">2019</font>.
 </li>
