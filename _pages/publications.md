@@ -14,6 +14,17 @@ at UHM (see my
 <ul>
 <hr>
 
+
+<li>
+    <b> Developing Accurate and Scalable Simulators of Production
+Workflow Management Systems with WRENCH</b>
+     <aa href="{{base.url}}/files/papers/casanova_fgcs2020.pdf">[PDF]</aa><br>
+      H. Casanova, R. Ferreira da Silva, R. Tanaka, S. Pandey, G. Jethwani, W. Koch, S. Albrecht, J. Oeth, F. Suter,
+in <i>Future Generation Computer Systems (FGCS)</i>, to appear, <font color="red">2020</font>.
+</li>
+
+
+
 <li>
     <b> Teaching Parallel and Distributed Computing Concepts in
 Simulation with WRENCH</b>
