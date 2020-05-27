@@ -20,7 +20,7 @@ at UHM (see my
 Workflow Management Systems with WRENCH</b>
      <aa href="{{base.url}}/files/papers/casanova_fgcs2020.pdf">[PDF]</aa><br>
       H. Casanova, R. Ferreira da Silva, R. Tanaka, S. Pandey, G. Jethwani, W. Koch, S. Albrecht, J. Oeth, F. Suter,
-in <i>Future Generation Computer Systems (FGCS)</i>, to appear, <font color="red">2020</font>.
+in <i>Future Generation Computer Systems (FGCS)</i>, 112, 162--175, <font color="red">2020</font>.
 </li>
 
 
