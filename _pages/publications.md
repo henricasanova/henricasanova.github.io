@@ -14,6 +14,16 @@ at UHM (see my
 <ul>
 <hr>
 
+<li>
+    <b>Characterizing, Modeling, and Accurately Simulating Power and Energy Consumption of I/O-intensive Scientific Workflows</b>
+     <aa href="{{base.url}}/files/papers/dasilva_jocs2020.pdf">[PDF]</aa><br>
+R. Ferreira da Silva, H. Casanova, A.-C. Orgerie, R. Tanaka, E. Deelman F. Suter,
+in <i>Journal of Computational Science (JOCS)</i>, to appear, 
+<font color="red">2020</font>.
+</li>
+
+
+
 
 <li>
     <b> Developing Accurate and Scalable Simulators of Production
