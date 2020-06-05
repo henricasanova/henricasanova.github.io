@@ -38,7 +38,7 @@ in <i>Future Generation Computer Systems (FGCS)</i>, 112, 162--175, <font color=
 <li>
     <b> Teaching Parallel and Distributed Computing Concepts in
 Simulation with WRENCH</b>
-     <aa href="{{base.url}}/files/papers/tanaka_eduhpc2019.pdf">[PDF]</aa><br>
+     <a href="{{base.url}}/files/papers/tanaka_eduhpc2019.pdf">[PDF]</a><br>
       R. Tanaka, R. Ferreira da Silva, H. Casanova
 in <i>Proc. of the Workshop on Education for High-Performance Computing (EduHPC)</i>, Denver, Colorado, Nov. <font color="red">2019</font>.
 </li>
