@@ -15,6 +15,15 @@ at UHM (see my
 <hr>
 
 <li>
+<b>Modeling the Performance of Scientific Workflow Executions on HPC Platforms with Burst Buffers</b>
+     <aa href="{{base.url}}/files/papers/pottier_cluster2020.pdf">[PDF]</aa><br>
+L. Pottier, R. Ferreira Da Silva, H. Casanova, E. Deelman,
+in <i>Proc. of the 22nd IEEE Cluster Conference</i>, Kobe, Japan, Sept.
+<font color="red">2020</font>.
+</li>
+
+
+<li>
     <b>Characterizing, Modeling, and Accurately Simulating Power and Energy Consumption of I/O-intensive Scientific Workflows</b>
      <aa href="{{base.url}}/files/papers/dasilva_jocs2020.pdf">[PDF]</aa><br>
 R. Ferreira da Silva, H. Casanova, A.-C. Orgerie, R. Tanaka, E. Deelman F. Suter,
