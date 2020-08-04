@@ -16,9 +16,10 @@ of research fits broadly under the High Performance Computing umbrella, and I te
 a range of undergraduate and graduate courses. 
 For more information see my [academic C.V.]({{ base.url }}/files/vita.pdf) and the links at the very top.
 
-## Current Semester (Spring 2020)
+## Current Semester (Fall 2020)
 
-  - On sabbatical
+  - [ICS 312 - Machine-Level and Systems Programming](https://henricasanova.github.io/ics312_fall2020/)
+  - [ICS 432 - Concurrent and High-Performance Programming](https://henricasanova.github.io/ics432_fall2020/)
 
 <!--
   - [ICS 332 - Operating Systems](https://henricasanova.github.io/ics332_fall2019/)
