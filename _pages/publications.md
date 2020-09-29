@@ -15,6 +15,17 @@ at UHM (see my
 <hr>
 
 <li>
+<b>WorkflowHub: Community Framework for Enabling
+Scientific Workflow Research and Development</b>
+     <aa href="{{base.url}}/files/papers/ferreira_da_silva_works2020.pdf">[PDF]</aa><br>
+R. Ferreira Da Silva, Pottier, L., Coleman, T., Deelman, E., H. Casanova,
+in <i>Proc. of the 15th Workshop on Workflows in Support of
+Large-Scale Science (WORKS)</i>, Nov.
+<font color="red">2020</font>.
+</li>
+
+
+<li>
 <b>Modeling the Performance of Scientific Workflow Executions on HPC Platforms with Burst Buffers</b>
      <aa href="{{base.url}}/files/papers/pottier_cluster2020.pdf">[PDF]</aa><br>
 L. Pottier, R. Ferreira Da Silva, H. Casanova, E. Deelman,
