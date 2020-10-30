@@ -15,6 +15,18 @@ at UHM (see my
 <hr>
 
 <li>
+<b>Peachy Parallel Assignments (EduHPC 2020)</b>
+     <aa href="{{base.url}}/files/papers/casanova_eduhpc2020.pdf">[PDF]</aa><br>
+H. Casanova, R. Ferreira Da Silva, A. Gonzalez-Escribano, W. Koch, Y. 
+Torres, and D.P. Bunde,
+in <i>Proc. of the Workshop on Education for
+High-Performance Computing (EduHPC)</i>, Nov.
+<font color="red">2020</font>.
+</li>
+
+
+
+<li>
 <b>WorkflowHub: Community Framework for Enabling
 Scientific Workflow Research and Development</b>
      <aa href="{{base.url}}/files/papers/ferreira_da_silva_works2020.pdf">[PDF]</aa><br>
