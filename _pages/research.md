@@ -62,6 +62,9 @@ to implement scalable and accurate simulators of complex cyberinfrastructure sys
 
 Recent research awards include:
 
+  - <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2016610&HistoricalAwards=false">Infrastructure for Enabling Systematic Development and Research of Scientific Workflow Management Systems</a> 
+National Science Foundation, 08/2020 - 09/2021
+
   - <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1923539">Integrating core CI literacy and skills into university curricula via simulation-driven activities</a>
 National Science Foundation, 09/2019 - 08/2022
 
