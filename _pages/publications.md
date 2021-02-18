@@ -103,7 +103,7 @@ in <i>Proc. of the Workshop on Education for High-Performance Computing (EduHPC)
 
 <li>
     <b>Sparse 3-D NoCs with Inductive Coupling</b>
-    <aa href="{{base.url}}/files/papers/koibuchi_dac2019.pdf">[PDF]</aa><br>
+    <a href="{{base.url}}/files/papers/koibuchi_dac2019.pdf">[PDF]</a><br>
     M. Koibuchi, L. Leong, T. Totoki, H. Matsutani, H. Amano, H. Casanova,
         in <i>Proc. of the Design Automation Conference (DAC)</i>, Las Vegas, Texas, June <font color="red">2019</font>.
 </li>
