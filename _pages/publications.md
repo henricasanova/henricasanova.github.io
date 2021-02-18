@@ -16,7 +16,7 @@ at UHM (see my
 
 <li>
 <b>Peachy Parallel Assignments (EduHPC 2020)</b>
-     <aa href="{{base.url}}/files/papers/casanova_eduhpc2020.pdf">[PDF]</aa><br>
+     <a href="{{base.url}}/files/papers/casanova_eduhpc2020.pdf">[PDF]</a><br>
 H. Casanova, R. Ferreira Da Silva, A. Gonzalez-Escribano, W. Koch, Y. 
 Torres, and D.P. Bunde,
 in <i>Proc. of the Workshop on Education for
@@ -29,7 +29,7 @@ High-Performance Computing (EduHPC)</i>, Nov.
 <li>
 <b>WorkflowHub: Community Framework for Enabling
 Scientific Workflow Research and Development</b>
-     <aa href="{{base.url}}/files/papers/ferreira_da_silva_works2020.pdf">[PDF]</aa><br>
+     <a href="{{base.url}}/files/papers/ferreiradasilva_works2020.pdf">[PDF]</a><br>
 R. Ferreira Da Silva, Pottier, L., Coleman, T., Deelman, E., H. Casanova,
 in <i>Proc. of the 15th Workshop on Workflows in Support of
 Large-Scale Science (WORKS)</i>, Nov.
@@ -39,7 +39,7 @@ Large-Scale Science (WORKS)</i>, Nov.
 
 <li>
 <b>Modeling the Performance of Scientific Workflow Executions on HPC Platforms with Burst Buffers</b>
-     <aa href="{{base.url}}/files/papers/pottier_cluster2020.pdf">[PDF]</aa><br>
+     <a href="{{base.url}}/files/papers/pottier_cluster2020.pdf">[PDF]</a><br>
 L. Pottier, R. Ferreira Da Silva, H. Casanova, E. Deelman,
 in <i>Proc. of the 22nd IEEE Cluster Conference</i>, Kobe, Japan, Sept.
 <font color="red">2020</font>.
@@ -48,7 +48,7 @@ in <i>Proc. of the 22nd IEEE Cluster Conference</i>, Kobe, Japan, Sept.
 
 <li>
     <b>Characterizing, Modeling, and Accurately Simulating Power and Energy Consumption of I/O-intensive Scientific Workflows</b>
-     <aa href="{{base.url}}/files/papers/dasilva_jocs2020.pdf">[PDF]</aa><br>
+     <a href="{{base.url}}/files/papers/ferreiradasilva_jocs2020.pdf">[PDF]</a><br>
 R. Ferreira da Silva, H. Casanova, A.-C. Orgerie, R. Tanaka, E. Deelman F. Suter,
 in <i>Journal of Computational Science (JOCS)</i>, to appear, 
 <font color="red">2020</font>.
@@ -60,7 +60,7 @@ in <i>Journal of Computational Science (JOCS)</i>, to appear,
 <li>
     <b> Developing Accurate and Scalable Simulators of Production
 Workflow Management Systems with WRENCH</b>
-     <aa href="{{base.url}}/files/papers/casanova_fgcs2020.pdf">[PDF]</aa><br>
+     <a href="{{base.url}}/files/papers/casanova_fgcs2020.pdf">[PDF]</a><br>
       H. Casanova, R. Ferreira da Silva, R. Tanaka, S. Pandey, G. Jethwani, W. Koch, S. Albrecht, J. Oeth, F. Suter,
 in <i>Future Generation Computer Systems (FGCS)</i>, 112, 162--175, <font color="red">2020</font>.
 </li>
@@ -79,7 +79,7 @@ in <i>Proc. of the Workshop on Education for High-Performance Computing (EduHPC)
 <li>
     <b> Bridging Concepts and Practice in eScience via 
         Simulation-driven Engineering</b>
-     <aa href="{{base.url}}/files/papers/ferreira_da_silva_bc2cd2019.pdf">[PDF]</aa><br>
+     <a href="{{base.url}}/files/papers/ferreiradasilva_escience2019.pdf">[PDF]</a><br>
       R. Ferreira da Silva, H. Casanova, R. Tanaka, F. Suter,
      in <i>Proc. of the Bridging from Concepts to Data and Computation for 
         eScience Workwhop (BC2DC)</i>, San Diego, California, Sept. <font color="red">2019</font>.
@@ -88,7 +88,7 @@ in <i>Proc. of the Workshop on Education for High-Performance Computing (EduHPC)
 
 <li>
     <b> MILP Formulations for Spatio-Temporal Thermal-Aware Scheduling in Cloud and HPC Datacenters</b>
-     <aa href="{{base.url}}/files/papers/pierson_cluster2019.pdf">[PDF]</aa><br>
+     <a href="{{base.url}}/files/papers/pierson_cluster2019.pdf">[PDF]</a><br>
       J.-M. Pierson, P. Stolf, H. Sun, H. Casanova,   
      in <i>Cluster Computing</i>, to appear, <font color="red">2019</font>.
 </li>
