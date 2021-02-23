@@ -28,33 +28,18 @@ See my [publications page]({{base.url}}/publications/) for all details.
 
 Most of my current research focuses on the simulation of parallel and distributed computing systems, with a large emphasis placed on HPC systems. Two key projects are:
 
-<table>
-<tr>
-<td>
-<a href="http://simgrid.org"><img height="100" src="https://simgrid.org/logos/simgrid_logo_2011.png"></a>
-</td>
-<td>
-<a href="http://simgrid.org">The SimGrid project</a>, which I initiated
+  - [The SimGrid project](http://simgrid.org), which I initiated
 more than 20 years ago but has taken a life of its own thanks to a bunch of
 talented people who've made it better than I could ever have, is a
-<b>simulation framework</b> for building <b>scalable</b>, <b>accurate</b>, simulators
+**simulation framework** for building **scalable**, **accurate**, simulators
 of parallel/distributed applications, systems, and platforms.
-</td>
-</tr>
 
-<tr>
-<td>
-<a href="https://wrench-project.org/"><img height="100" src="https://wrench-project.org/wrench/1.4/user/logo-vertical.png"></a>
-</td>
-<td>
-<a href="http://wrench-project.org">The WRENCH project</a> is
-a <b>simulation framework</b> that sits on top of 
-<a href="http://simgrid.org">SimGrid</a> and makes it possible
+  - [The WRENCH project](http://wrench-project.org) is a **simulation framework** that sits on top of 
+[SimGrid](http://simgrid.org">SimGrid) and makes it possible
 to implement scalable and accurate simulators of complex cyberinfrastructure systems
-<b>quickly</b> and <b>easily</b>.
-</td>
-</tr>
-</table>
+**quickly** and **easily**.
+
+  - [The EduWRENCH project](http://eduwrench.org) provides **pedagogic modules** for teaching/learning principles of parallel and distributed computing via **simulation-driven activities in the browser** implemented using [WRENCH](https://wrench-project.org).
 
 
 ---
@@ -62,44 +47,48 @@ to implement scalable and accurate simulators of complex cyberinfrastructure sys
 
 Recent research awards include:
 
-  - <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2016610&HistoricalAwards=false">Infrastructure for Enabling Systematic Development and Research of Scientific Workflow Management Systems</a> 
-National Science Foundation, 08/2020 - 09/2021
+  - [Infrastructure for Enabling Systematic Development and Research of Scientific Workflow Management Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2016610&HistoricalAwards=false), National Science Foundation, 08/2020 - 09/2021
 
-  - <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1923539">Integrating core CI literacy and skills into university curricula via simulation-driven activities</a>
-National Science Foundation, 09/2019 - 08/2022
+  - [Integrating core CI literacy and skills into university curricula via simulation-driven activities](https://nsf.gov/awardsearch/showAward?AWD_ID=1923539), National Science Foundation, 09/2019 - 08/2022
 
-  - <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1642369">WRENCH: A Simulation Workbench for Scientific Workflow Users, Developers, and Researchers</a>,
-National Science Foundation, 01/2017 - 12/2019.
+  - [WRENCH: A Simulation Workbench for Scientific Workflow Users, Developers, and Researchers](https://nsf.gov/awardsearch/showAward?AWD_ID=1642369), National Science Foundation, 01/2017 - 12/2019.
+    - Although this award has expired, [WRENCH](https://wrench-project.org) is still actively maintained and developed.
 
 
 ---
 ### Research Group
 
+(last updated: Feb 2021)
+
 Current members:
  
-  - Evan Hataishi (M.S.)
   - William Koch (M.S.)
-  - Wyatt Hoodes (B.S.)
+  - Derrick Luyen (M.S.)
+  - John Dobbs (M.S.)
+  - Herman Li (M.S.)
 
 UHM Alumni:
 
-  - Ryan Tanaka (M.S. 2019, project)<br>
-  - Lambert Leong (M.S. 2018, thesis)<br>
-  - Suraj Pandey (M.S. 2018, thesis)<br>
-  - Noah Higa (B.S. 2017, Honors program)<br>
-  - Alyssa Higuchi (M.S. 2016, project)<br>
-  - Robert Namaoe (M.S. 2016, project)<br>
-  - Michael Gowanlock (Ph.D. 2015)<br>
-  - Brian Hall (M.S. 2015, project)<br>
-  - Ben Karsin (M.S. 2012, thesis)<br>
-  - David Schanzenbach (M.S. 2011, thesis)<br>
-  - Mark Stillwell (Ph.D. 2010)<br>
-  - Kaveh Kardan (M.S. 2010, thesis)<br>
-  - Joshua Wingstrom (Ph.D. 2009)<br>
-  - Kayo Fujiwara (M.S. 2007, thesis)<br>
+  - Wyatt Hoodes (B.S., independent project)
+  - Evan Hataishi (M.S. 2019, thesis)
+  - Ryan Tanaka (M.S. 2019, project)
+  - Lambert Leong (M.S. 2018, thesis)
+  - Suraj Pandey (M.S. 2018, thesis)
+  - Noah Higa (B.S. 2017, Honors program)
+  - Alyssa Higuchi (M.S. 2016, project)
+  - Robert Namaoe (M.S. 2016, project)
+  - Michael Gowanlock (Ph.D. 2015)
+  - Brian Hall (M.S. 2015, project)
+  - Ben Karsin (M.S. 2012, thesis)
+  - David Schanzenbach (M.S. 2011, thesis)
+  - Mark Stillwell (Ph.D. 2010)
+  - Kaveh Kardan (M.S. 2010, thesis)
+  - Joshua Wingstrom (Ph.D. 2009)
+  - Kayo Fujiwara (M.S. 2007, thesis)
 
 Former Visiting Professors (sabbaticals):
 
+  - Oliver Sinnen (Univ. of Auckland, New Zealand)
   - Fr&eacute;d&eacute;ric Vivien (ENS Lyon, France)
   - Michihiro Koibuchi (NII, Japan)
   - Kento Aida (NII, Japan)
