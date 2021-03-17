@@ -15,8 +15,20 @@ at UHM (see my
 <hr>
 
 <li>
+<b>
+Evaluating energy-aware scheduling algorithms for I/O-intensive scientific workflows
+</b>
+<aa href="{{base.url}}/files/papers/coleman_iccs2021.pdf">[PDF]</aa><br>
+T. Coleman, H. Casanova, T. Gwartney, R. Ferreira da Silva,
+in <i>Proc. of the International Conference on Computational Science (ICCS)
+</i>, June
+<font color="red">2021</font>.
+</li>
+
+
+<li>
 <b>Peachy Parallel Assignments (EduHPC 2020)</b>
-     <a href="{{base.url}}/files/papers/casanova_eduhpc2020.pdf">[PDF]</a><br>
+<a href="{{base.url}}/files/papers/casanova_eduhpc2020.pdf">[PDF]</a><br>
 H. Casanova, R. Ferreira Da Silva, A. Gonzalez-Escribano, W. Koch, Y. 
 Torres, and D.P. Bunde,
 in <i>Proc. of the Workshop on Education for
@@ -29,8 +41,8 @@ High-Performance Computing (EduHPC)</i>, Nov.
 <li>
 <b>WorkflowHub: Community Framework for Enabling
 Scientific Workflow Research and Development</b>
-     <a href="{{base.url}}/files/papers/ferreiradasilva_works2020.pdf">[PDF]</a><br>
-R. Ferreira Da Silva, Pottier, L., Coleman, T., Deelman, E., H. Casanova,
+<a href="{{base.url}}/files/papers/ferreiradasilva_works2020.pdf">[PDF]</a><br>
+R. Ferreira Da Silva, L. Pottier, T. Coleman, E. Deelman,  H. Casanova,
 in <i>Proc. of the 15th Workshop on Workflows in Support of
 Large-Scale Science (WORKS)</i>, Nov.
 <font color="red">2020</font>.
@@ -39,7 +51,7 @@ Large-Scale Science (WORKS)</i>, Nov.
 
 <li>
 <b>Modeling the Performance of Scientific Workflow Executions on HPC Platforms with Burst Buffers</b>
-     <a href="{{base.url}}/files/papers/pottier_cluster2020.pdf">[PDF]</a><br>
+<a href="{{base.url}}/files/papers/pottier_cluster2020.pdf">[PDF]</a><br>
 L. Pottier, R. Ferreira Da Silva, H. Casanova, E. Deelman,
 in <i>Proc. of the 22nd IEEE Cluster Conference</i>, Kobe, Japan, Sept.
 <font color="red">2020</font>.
