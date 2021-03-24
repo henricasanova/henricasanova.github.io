@@ -25,6 +25,7 @@ in <i>Proc. of the International Conference on Computational Science (ICCS)
 <font color="red">2021</font>.
 </li>
 
+<hr>
 
 <li>
 <b>Peachy Parallel Assignments (EduHPC 2020)</b>
@@ -78,6 +79,7 @@ in <i>Future Generation Computer Systems (FGCS)</i>, 112, 162--175, <font color=
 </li>
 
 
+<hr>
 
 <li>
     <b> Teaching Parallel and Distributed Computing Concepts in
