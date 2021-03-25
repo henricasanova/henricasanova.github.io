@@ -58,23 +58,23 @@ Recent research awards include:
 ---
 ### Research Group
 
-(last updated: Feb 2021)
+(last updated: March 2021)
 
 Current members:
  
-  - William Koch (M.S.)
   - Derrick Luyen (M.S.)
   - John Dobbs (M.S.)
-  - Herman Li (M.S.)
 
 UHM Alumni:
 
-  - Wyatt Hoodes (B.S., independent project)
+  - William Koch (M.S., 2021, thesis)
+  - Herman Li (M.S., 2021, project)
+  - Wyatt Hoodes (B.S., 2020, independent project)
   - Evan Hataishi (M.S. 2019, thesis)
   - Ryan Tanaka (M.S. 2019, project)
   - Lambert Leong (M.S. 2018, thesis)
   - Suraj Pandey (M.S. 2018, thesis)
-  - Noah Higa (B.S. 2017, Honors program)
+  - Noah Higa (B.S. 2017, senior thesis)
   - Alyssa Higuchi (M.S. 2016, project)
   - Robert Namaoe (M.S. 2016, project)
   - Michael Gowanlock (Ph.D. 2015)
