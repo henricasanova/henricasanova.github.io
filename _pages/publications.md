@@ -16,6 +16,18 @@ at UHM (see my
 
 <li>
 <b>
+Evaluating energy-aware scheduling algorithms for I/O-intensive scientific workflows
+</b>
+<a href="{{base.url}}/files/papers/coleman_iccs2021.pdf">[PDF]</a><br>
+T. Coleman, H. Casanova, T. Gwartney, R. Ferreira da Silva,
+in <i>Proc. of the International Conference on Computational Science (ICCS)
+</i>, June
+<font color="red">2021</font>.
+</li>
+
+
+<li>
+<b>
 GLUME: A Strategy for Reducing Workflow Execution Times on Batch-Scheduled Platforms
 </b>
 <aa href="{{base.url}}/files/papers/hataishi_jsspp2021.pdf">[PDF]</aa><br>
@@ -25,17 +37,6 @@ in <i>Proc. of the 24th Workshop on Job Scheduling Strategies for Parallel Proce
 </li>
 
 
-
-<li>
-<b>
-Evaluating energy-aware scheduling algorithms for I/O-intensive scientific workflows
-</b>
-<a href="{{base.url}}/files/papers/coleman_iccs2021.pdf">[PDF]</a><br>
-T. Coleman, H. Casanova, T. Gwartney, R. Ferreira da Silva,
-in <i>Proc. of the International Conference on Computational Science (ICCS)
-</i>, June
-<font color="red">2021</font>.
-</li>
 
 <hr>
 
