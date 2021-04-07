@@ -30,7 +30,7 @@ in <i>Proc. of the 24th Workshop on Job Scheduling Strategies for Parallel Proce
 <b>
 Evaluating energy-aware scheduling algorithms for I/O-intensive scientific workflows
 </b>
-<aa href="{{base.url}}/files/papers/coleman_iccs2021.pdf">[PDF]</aa><br>
+<a href="{{base.url}}/files/papers/coleman_iccs2021.pdf">[PDF]</a><br>
 T. Coleman, H. Casanova, T. Gwartney, R. Ferreira da Silva,
 in <i>Proc. of the International Conference on Computational Science (ICCS)
 </i>, June
