@@ -13,6 +13,16 @@ at UHM (see my
 
 <ul>
 <hr>
+<br>
+GLUME: A Strategy for Reducing Workflow Execution Times on Batch-Scheduled Platforms
+</br>
+<aa href="{{base.url}}/files/papers/hataishi_jsspp2021.pdf">[PDF]</aa><br>
+E. Hataishi, P.-F. Dutot, R. Ferreira da Silva, H. Casanova, 
+in <i>Proc. of the 24th Workshop on Job Scheduling Strategies for Parallel Processing (JSSPP)</i>, May
+<font color="red">2021</font>.
+</li>
+
+
 
 <li>
 <b>
