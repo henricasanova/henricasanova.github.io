@@ -16,6 +16,18 @@ at UHM (see my
 
 <li>
 <b>
+Beyond Binary Search: Parallel In-place Construction of Implicit Search Tree Layouts
+</b>
+<aa href="{{base.url}}/files/papers/berney_tc2021.pdf">[PDF]</aa><br>
+K. Berney, H. Casanova, B. Karsin, N. Sitchinava, 
+in <i>IEEE Transactions on Computers
+</i>, to appear,
+<font color="red">2021</font>.
+</li>
+
+
+<li>
+<b>
 Evaluating energy-aware scheduling algorithms for I/O-intensive scientific workflows
 </b>
 <a href="{{base.url}}/files/papers/coleman_iccs2021.pdf">[PDF]</a><br>
