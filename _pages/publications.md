@@ -20,8 +20,8 @@ Beyond Binary Search: Parallel In-place Construction of Implicit Search Tree Lay
 </b>
 <aa href="{{base.url}}/files/papers/berney_tc2021.pdf">[PDF]</aa><br>
 K. Berney, H. Casanova, B. Karsin, N. Sitchinava, 
-in <i>IEEE Transactions on Computers
-</i>, to appear,
+in <i>IEEE Transactions on Computers,
+</i> to appear,
 <font color="red">2021</font>.
 </li>
 
