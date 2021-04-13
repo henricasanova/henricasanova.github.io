@@ -87,7 +87,7 @@ in <i>Proc. of the 22nd IEEE Cluster Conference</i>, Kobe, Japan, Sept.
 <li>
     <b>Characterizing, Modeling, and Accurately Simulating Power and Energy Consumption of I/O-intensive Scientific Workflows</b>
      <a href="{{base.url}}/files/papers/ferreiradasilva_jocs2020.pdf">[PDF]</a><br>
-R. Ferreira da Silva, H. Casanova, A.-C. Orgerie, R. Tanaka, E. Deelman F. Suter,
+R. Ferreira da Silva, H. Casanova, A.-C. Orgerie, R. Tanaka, E. Deelman, F. Suter,
 in <i>Journal of Computational Science (JOCS)</i>, 44, 
 <font color="red">2020</font>.
 </li>
