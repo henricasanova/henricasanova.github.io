@@ -42,7 +42,7 @@ in <i>Proc. of the International Conference on Computational Science (ICCS)
 <b>
 GLUME: A Strategy for Reducing Workflow Execution Times on Batch-Scheduled Platforms
 </b>
-<aa href="{{base.url}}/files/papers/hataishi_jsspp2021.pdf">[PDF]</aa><br>
+<a href="{{base.url}}/files/papers/hataishi_jsspp2021.pdf">[PDF]</a><br>
 E. Hataishi, P.-F. Dutot, R. Ferreira da Silva, H. Casanova, 
 in <i>Proc. of the 24th Workshop on Job Scheduling Strategies for Parallel Processing (JSSPP)</i>, May
 <font color="red">2021</font>.
