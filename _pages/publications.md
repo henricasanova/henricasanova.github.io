@@ -16,6 +16,18 @@ at UHM (see my
 
 <li>
 <b>
+Teaching Parallel and Distributed Computing Concepts in Simulation with WRENCH
+</b>
+<aa href="{{base.url}}/files/papers/casanova_jpdc2021.pdf">[PDF]</aa><br>
+H. Casanova, R. Tanaka, W. Koch, R. Farreira da Silva,
+in <i>Journal of Parallel and Distributed Computing
+</i> to appear,
+<font color="red">2021</font>.
+</li>
+
+
+<li>
+<b>
 Beyond Binary Search: Parallel In-place Construction of Implicit Search Tree Layouts
 </b>
 <aa href="{{base.url}}/files/papers/berney_tc2021.pdf">[PDF]</aa><br>
