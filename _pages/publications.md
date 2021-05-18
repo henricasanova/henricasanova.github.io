@@ -30,7 +30,7 @@ in <i>Journal of Parallel and Distributed Computing
 <b>
 Beyond Binary Search: Parallel In-place Construction of Implicit Search Tree Layouts
 </b>
-<aa href="{{base.url}}/files/papers/berney_tc2021.pdf">[PDF]</aa><br>
+<a href="{{base.url}}/files/papers/berney_tc2021.pdf">[PDF]</a><br>
 K. Berney, H. Casanova, B. Karsin, N. Sitchinava, 
 in <i>IEEE Transactions on Computers,
 </i> to appear,
