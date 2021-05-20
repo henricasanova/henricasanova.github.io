@@ -16,9 +16,10 @@ of research fits broadly under the High Performance Computing umbrella, and I te
 a range of undergraduate and graduate courses. 
 For more information see my [academic C.V.]({{ base.url }}/files/vita.pdf) and the links at the very top.
 
-## Current Semester (Spring 2021)
+## Current Semester (Fall 2021)
 
-  - [ICS 312 - Machine-Level and Systems Programming](https://henricasanova.github.io/ics312_spring2021/)
+  - [ICS 312 - Machine-Level and Systems Programming](https://henricasanova.github.io/ics312_fall2021/)
+  - [ICS 632 - Principles of High Performance Computing](https://henricasanova.github.io/ics632_fall2021/)
 
 
 ## Contact
