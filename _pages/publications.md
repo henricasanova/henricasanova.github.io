@@ -16,12 +16,24 @@ at UHM (see my
 
 <li>
 <b>
+WfChef: Automated Generation of Accurate Scientific Workflow Generators
+</b>
+<aa href="{{base.url}}/files/papers/coleman_escience2021.pdf">[PDF]</aa><br>
+T. Coleman, H. Casanova, Ferreira da Silva,
+in <i>Proc. IEEE International eScience Conference
+</i> to appear,
+<font color="red">2021</font>.
+</li>
+
+
+
+<li>
+<b>
 Teaching Parallel and Distributed Computing Concepts in Simulation with WRENCH
 </b>
 <aa href="{{base.url}}/files/papers/casanova_jpdc2021.pdf">[PDF]</aa><br>
-H. Casanova, R. Tanaka, W. Koch, R. Farreira da Silva,
-in <i>Journal of Parallel and Distributed Computing
-</i> to appear,
+H. Casanova, R. Tanaka, W. Koch, R. Ferreira da Silva,
+in <i>Journal of Parallel and Distributed Computing (JPDC),</i> 156, 53-63,
 <font color="red">2021</font>.
 </li>
 
