@@ -28,7 +28,7 @@ Glatard, in <i>Proc. of IEEE Cluster</i>,
 <b>
 WfChef: Automated Generation of Accurate Scientific Workflow Generators
 </b>
-<aa href="{{base.url}}/files/papers/coleman_escience2021.pdf">[PDF]</aa><br>
+<a href="{{base.url}}/files/papers/coleman_escience2021.pdf">[PDF]</a><br>
 T. Coleman, H. Casanova, Ferreira da Silva,
 in <i>Proc. IEEE International eScience Conference</i>,
 <font color="red">2021</font>.
@@ -39,7 +39,7 @@ in <i>Proc. IEEE International eScience Conference</i>,
 <b>
 Teaching Parallel and Distributed Computing Concepts in Simulation with WRENCH
 </b>
-<aa href="{{base.url}}/files/papers/casanova_jpdc2021.pdf">[PDF]</aa><br>
+<a href="{{base.url}}/files/papers/casanova_jpdc2021.pdf">[PDF]</a><br>
 H. Casanova, R. Tanaka, W. Koch, R. Ferreira da Silva,
 in <i>Journal of Parallel and Distributed Computing (JPDC)</i>, 156, 53-63,
 <font color="red">2021</font>.
@@ -976,7 +976,7 @@ in <i>Proceedings of the International Parallel and Distributed Processing Sympo
   <a href="{{base.url}}/files/papers/yang_tpds2005.pdf">[PDF (tech report version)]</a>
   <br>
    Y. Yang, K. van der Raadt, H. Casanova<br> 
-  <i>in IEEE Transactions onParallel and Distributed Systems (TPDS)</i>, 16(11), 1092--1102</i>, <font color="red">2005</font>.
+  <i>in IEEE Transactions onParallel and Distributed Systems (TPDS)</i>, 16(11), 1092--1102, <font color="red">2005</font>.
 </li>
 <li>
   <b> Network Modeling Issues for Grid Application Scheduling</b>
