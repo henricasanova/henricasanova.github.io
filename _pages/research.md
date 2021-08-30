@@ -47,6 +47,8 @@ to implement scalable and accurate simulators of complex cyberinfrastructure sys
 
 Recent research awards include:
 
+  - Simulation-driven runtime resource management for distributed workflow applications, National Science Foundation, 10/2021 - 09/2024
+
   - [Simulation-driven Evaluation of Cyberinfrastructure Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2103489&HistoricalAwards=false), National Science Foundation, 08/2021 - 07/2024
 
   - [Infrastructure for Enabling Systematic Development and Research of Scientific Workflow Management Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2016610&HistoricalAwards=false), National Science Foundation, 08/2020 - 09/2021
