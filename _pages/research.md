@@ -41,6 +41,11 @@ to implement scalable and accurate simulators of complex cyberinfrastructure sys
 
   - [The EduWRENCH project](http://eduwrench.org) provides **pedagogic modules** for teaching/learning principles of parallel and distributed computing via **simulation-driven activities in the browser** implemented using [WRENCH](https://wrench-project.org).
 
+  - [The WfCommons project](http://wfcommons.org) provides a set of community tools and resources for enabling scientific workflow research and development. 
+
+
+---
+### Recent Research Funding
 
 ---
 ### Recent Research Funding
