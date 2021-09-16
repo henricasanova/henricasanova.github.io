@@ -8,13 +8,13 @@ author_profile: true
 {% include base_path %}
 
 I teach a range of courses both at the undergraduate and graduate levels (see
-my [Academic C.V.]({{ base.url }}/files/vita.pdf) for a complete list). But I also engaged in teaching-related activities that go beyond the courses I teach.
+my [Academic C.V.]({{ base.url }}/files/vita.pdf) for a complete list). But I also engage in teaching-related activities that go beyond the courses I teach.
 
 
 ---
 ### WRENCH Pedagogic Modules
 
-Thanks for funding from the [NSF](http://nsf.gov), 
+Thanks to funding from the [NSF](http://nsf.gov), 
 we have developed the [EduWRENCH
 Pedagogic Modules](https://eduwrench.org).
 These modules  are _self-contained_, _simulation-driven_, _in-the-browser_ pedagogic
