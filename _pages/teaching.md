@@ -14,10 +14,10 @@ my [Academic C.V.]({{ base.url }}/files/vita.pdf) for a complete list). But I al
 ---
 ### WRENCH Pedagogic Modules
 
-As part of the [NSF](http://nsf.gov)-funded [WRENCH
-Project](https://wrench-project.org/), we have developed the [EduWRENCH
-Pedagogic Modules](http://eduwrench.org).
-These modules  are _self-contained_, _simulation-driven_, pedagogic
+Thanks for funding from the [NSF](http://nsf.gov), 
+we have developed the [EduWRENCH
+Pedagogic Modules](https://eduwrench.org).
+These modules  are _self-contained_, _simulation-driven_, _in-the-browser_ pedagogic
 activities that can be integrated into courses to achieve learning
 objectives in the area of distributed computing, in the context of
 scientific workflows, via hands-on experiments.

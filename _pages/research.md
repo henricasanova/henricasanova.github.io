@@ -26,7 +26,7 @@ See my [publications page]({{base.url}}/publications/) for all details.
 ---
 ### Current Research Projects
 
-Most of my current research focuses on the simulation of parallel and distributed computing systems, with a large emphasis placed on HPC systems. Two key projects are:
+Most of my current research focuses on the simulation of parallel and distributed computing systems, with a large emphasis placed on HPC systems. Current projects include:
 
   - [The SimGrid project](http://simgrid.org), which I initiated
 more than 20 years ago but has taken a life of its own thanks to a bunch of
