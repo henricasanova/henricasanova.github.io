@@ -45,9 +45,7 @@ to implement scalable and accurate simulators of complex cyberinfrastructure sys
 
 
 ---
-### Recent Research Funding
 
----
 ### Recent Research Funding
 
 Recent research awards include:
@@ -61,8 +59,6 @@ Recent research awards include:
   - [Integrating core CI literacy and skills into university curricula via simulation-driven activities](https://nsf.gov/awardsearch/showAward?AWD_ID=1923539), National Science Foundation, 09/2019 - 08/2022
 
   - [WRENCH: A Simulation Workbench for Scientific Workflow Users, Developers, and Researchers](https://nsf.gov/awardsearch/showAward?AWD_ID=1642369), National Science Foundation, 01/2017 - 12/2019.
-    - Although this award has expired, [WRENCH](https://wrench-project.org) is still actively maintained and developed.
-
 
 ---
 ### Research Group
