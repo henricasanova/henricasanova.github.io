@@ -15,6 +15,14 @@ at UHM (see my
 <hr>
 
 <li>
+<b>WfCommons: A Framework for Enabling Scientific Workflow Research and Development</b>
+     <aa href="{{base.url}}/files/papers/coleman_fgcs2021.pdf">[PDF]</aa><br>
+T. Coleman, H. Casanova, L. Pottier, M. Kaushik, E. Deelman, R. Ferreira da Silva,
+in <i>Future Generation Computer Systems (FGCS)</i>, to appear, <font color="red">2021</font>.
+</li>
+
+
+<li>
 <b>
 Modeling the Linux page cache for accurate simulation of data-intensive applications
 </b>
