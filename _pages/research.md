@@ -11,22 +11,22 @@ redirect_from:
 {% include base_path %}
 
 
-My research area is High Performance Computing (HPC), and in particular
-parallel and distributed computing for scientific application workloads. 
-For example, I have done work in the following areas:
+My research group is called **CoRG** (Concurrency Research Group), and 
+we do research in several areas of High Performance Computing (HPC). 
+In particular, over the years we have done work in the following areas:
 
+  - Modeling and simulation of parallel/distributed computing platforms and applications
+  - Simulation-driven parallel and distributed computing education
   - Application scheduling and resource management algorithms
   - Software frameworks for execution scientific applications
   - Design of HPC systems (network topologies, physical layouts for 3-D multi-chip systems)
-  - Modeling and simulation of parallel/distributed computing platforms and applications
-  - Simulation-driven parallel and distributed computing education
 
-See my [publications page]({{base.url}}/publications/) for all details.
+See my [publications page]({{base.url}}/publications/) for papers in the above, and other, areas.
 
 ---
-### Current Research Projects
+### Current Research 
 
-Most of my current research focuses on the simulation of parallel and distributed computing systems, with a large emphasis placed on HPC systems. Current projects include:
+Most of our current research focuses on the **simulation of parallel and distributed computing systems**, with a large emphasis placed on HPC systems. Current projects include:
 
   - [The SimGrid project](http://simgrid.org), which I initiated
 more than 20 years ago but has taken a life of its own thanks to a bunch of
@@ -50,7 +50,7 @@ to implement scalable and accurate simulators of complex cyberinfrastructure sys
 
 Recent research awards include:
 
-  - Simulation-driven runtime resource management for distributed workflow applications, National Science Foundation, 10/2021 - 09/2024
+  - [Simulation-driven runtime resource management for distributed workflow applications, National Science Foundation](https://nsf.gov/awardsearch/showAward?AWD_ID=2106059), 10/2021 - 09/2024
 
   - [Simulation-driven Evaluation of Cyberinfrastructure Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2103489&HistoricalAwards=false), National Science Foundation, 08/2021 - 07/2024
 
@@ -61,12 +61,13 @@ Recent research awards include:
   - [WRENCH: A Simulation Workbench for Scientific Workflow Users, Developers, and Researchers](https://nsf.gov/awardsearch/showAward?AWD_ID=1642369), National Science Foundation, 01/2017 - 12/2019.
 
 ---
-### Research Group
+### Research Group Members
 
-(last updated: March 2021)
+(last updated: November 2021)
 
 Current members:
  
+  - Jessee McDonald (M.S.)
   - Derrick Luyen (M.S.)
   - John Dobbs (M.S.)
 
