@@ -15,6 +15,15 @@ at UHM (see my
 <hr>
 
 <li>
+<b>Peachy Parallel Assignments (EduHPC 2021)</b>
+     <aa href="{{base.url}}/files/papers/.pdf">[PDF]</aa><br>
+ H.  Casanova. R. Ferreira da Silva, A. Gonzalez-Escribano, H. Li, Y. 
+    Torres, and D. Bunde, in <i>Proc. of the Workshop on Education for
+    High-Performance Computing (EduHPC)</i>, <font color="red">2021</font>.
+</li>
+
+
+<li>
 <b>WfCommons: A Framework for Enabling Scientific Workflow Research and Development</b>
      <aa href="{{base.url}}/files/papers/coleman_fgcs2021.pdf">[PDF]</aa><br>
 T. Coleman, H. Casanova, L. Pottier, M. Kaushik, E. Deelman, R. Ferreira da Silva,
