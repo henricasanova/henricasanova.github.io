@@ -27,7 +27,7 @@ at UHM (see my
 <b>WfCommons: A Framework for Enabling Scientific Workflow Research and Development</b>
      <aa href="{{base.url}}/files/papers/coleman_fgcs2021.pdf">[PDF]</aa><br>
 T. Coleman, H. Casanova, L. Pottier, M. Kaushik, E. Deelman, R. Ferreira da Silva,
-in <i>Future Generation Computer Systems (FGCS)</i>, to appear, <font color="red">2021</font>.
+in <i>Future Generation Computer Systems (FGCS)</i>, 128, 16--27, <font color="red">2021</font>.
 </li>
 
 
@@ -69,8 +69,7 @@ Beyond Binary Search: Parallel In-place Construction of Implicit Search Tree Lay
 </b>
 <a href="{{base.url}}/files/papers/berney_tc2021.pdf">[PDF]</a><br>
 K. Berney, H. Casanova, B. Karsin, N. Sitchinava, 
-in <i>IEEE Transactions on Computers,
-</i> to appear,
+in <i>IEEE Transactions on Computers,</i> 
 <font color="red">2021</font>.
 </li>
 
