@@ -43,6 +43,7 @@ to implement scalable and accurate simulators of complex cyberinfrastructure sys
 
   - [The WfCommons project](http://wfcommons.org) provides a set of community tools and resources for enabling scientific workflow research and development. 
 
+  - [The Workflows Community Initiative](https://workflows.community/).
 
 ---
 
