@@ -15,6 +15,15 @@ at UHM (see my
 <hr>
 
 <li>
+<b>Peachy Parallel Assignments (EduPar 2022)</b>
+     <aa href="{{base.url}}/files/papers/.pdf">[PDF]</aa><br>
+H. M. Buecker, H. Casanova, R. Ferreira da Silva, A. Lasserre, D. Luyen, R. Namyst, J. Schoder, P.-A. Wacrenier, D. P. Bunde, in <i>Proc. of the Workshop on Parallel and Distributed Computing Education (EduPar)</i>,
+    <font color="red">2022</font>.
+</li>
+
+
+
+<li>
 <b>Peachy Parallel Assignments (EduHPC 2021)</b>
      <aa href="{{base.url}}/files/papers/.pdf">[PDF]</aa><br>
  H.  Casanova. R. Ferreira da Silva, A. Gonzalez-Escribano, H. Li, Y. 
