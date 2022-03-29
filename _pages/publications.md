@@ -15,6 +15,18 @@ at UHM (see my
 <hr>
 
 <li>
+<b>
+Selecting Scheduling Algorithms at Runtime using Simulation
+</b>
+<a href="{{base.url}}/files/papers/casanova_jsspp2022.pdf">[PDF]</a><br>
+H. Casanova, Y. C. Wong, L. Pottier, R. R. Ferreira da Silva,
+in <i>Proc. of the 25th Workshop on Job Scheduling Strategies for Parallel Processing (JSSPP)</i>, June
+<font color="red">2022</font>.
+</li>
+
+
+
+<li>
 <b>Peachy Parallel Assignments (EduPar 2022)</b>
      <aa href="{{base.url}}/files/papers/.pdf">[PDF]</aa><br>
 H. M. Buecker, H. Casanova, R. Ferreira da Silva, A. Lasserre, D. Luyen, R. Namyst, J. Schoder, P.-A. Wacrenier, D. P. Bunde, in <i>Proc. of the Workshop on Parallel and Distributed Computing Education (EduPar)</i>,
