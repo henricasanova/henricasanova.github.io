@@ -14,6 +14,18 @@ at UHM (see my
 <ul>
 <hr>
 
+
+<li>
+<b>
+Beyond Binary Search: Parallel In-place Construction of Implicit Search Tree Layouts
+</b>
+<a href="{{base.url}}/files/papers/berney_tc2021.pdf">[PDF]</a><br>
+K. Berney, H. Casanova, B. Karsin, N. Sitchinava, 
+in <i>IEEE Transactions on Computers,</i> 71(5), 1104-1116,
+<font color="red">2022</font>.
+</li>
+
+
 <li>
 <b>
 Selecting Scheduling Algorithms at Runtime using Simulation
@@ -80,17 +92,6 @@ Teaching Parallel and Distributed Computing Concepts in Simulation with WRENCH
 <a href="{{base.url}}/files/papers/casanova_jpdc2021.pdf">[PDF]</a><br>
 H. Casanova, R. Tanaka, W. Koch, R. Ferreira da Silva,
 in <i>Journal of Parallel and Distributed Computing (JPDC)</i>, 156, 53-63,
-<font color="red">2021</font>.
-</li>
-
-
-<li>
-<b>
-Beyond Binary Search: Parallel In-place Construction of Implicit Search Tree Layouts
-</b>
-<a href="{{base.url}}/files/papers/berney_tc2021.pdf">[PDF]</a><br>
-K. Berney, H. Casanova, B. Karsin, N. Sitchinava, 
-in <i>IEEE Transactions on Computers,</i> 
 <font color="red">2021</font>.
 </li>
 
