@@ -28,7 +28,7 @@ in <i>IEEE Transactions on Computers,</i> 71(5), 1104-1116,
 
 <li>
 <b>
-Selecting Scheduling Algorithms at Runtime using Simulation
+On the Feasibility of Simulation-driven Portfolio Scheduling for Cyberinfrastructure Runtime Systems
 </b>
 <a href="{{base.url}}/files/papers/casanova_jsspp2022.pdf">[PDF]</a><br>
 H. Casanova, Y. C. Wong, L. Pottier, R. R. Ferreira da Silva,
