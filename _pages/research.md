@@ -68,7 +68,7 @@ Recent research awards include:
 
 Current members:
  
-  - Jessee McDonald (M.S.)
+  - Jesse McDonald (M.S.)
   - Derrick Luyen (M.S.)
   - John Dobbs (M.S.)
 
