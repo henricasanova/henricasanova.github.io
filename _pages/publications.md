@@ -31,7 +31,7 @@ in <i>IEEE Transactions on Computers,</i> 71(5), 1104-1116,
 On the Feasibility of Simulation-driven Portfolio Scheduling for Cyberinfrastructure Runtime Systems
 </b>
 <a href="{{base.url}}/files/papers/casanova_jsspp2022.pdf">[PDF]</a><br>
-H. Casanova, Y. C. Wong, L. Pottier, R. R. Ferreira da Silva,
+H. Casanova, Y. C. Wong, L. Pottier, R. Ferreira da Silva,
 in <i>Proc. of the 25th Workshop on Job Scheduling Strategies for Parallel Processing (JSSPP)</i>, June
 <font color="red">2022</font>.
 </li>
