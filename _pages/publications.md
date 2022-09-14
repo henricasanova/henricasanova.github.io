@@ -241,7 +241,7 @@ in <i>Proc. of the Workshop on Education for High-Performance Computing (EduHPC)
 <li>
     <b>SMPI Courseware: Teaching Distributed-Memory Computing with MPI in Simulation</b>
     <a href="{{base.url}}/files/papers/casanova_eduhpc2018.pdf">[PDF]</a><br>
-    H. Casanova, M. Quinson, A. Legrand, F. Suter/i>,
+    H. Casanova, M. Quinson, A. Legrand, F. Suter,
     in <i>Proc. of the Workshop on Education for High-Performance Computing (EduHPC)</i>, <font color="red">best paper award</font>, Dallas, Texas, Nov. <font color="red">2018</font>.
 </li>
 
