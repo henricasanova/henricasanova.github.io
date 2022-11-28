@@ -9,16 +9,20 @@ redirect_from:
 ---
 
 
-I am in the 
-[Information & Computer Sciences Dept.](http://www.ics.hawaii.edu) at the
-[University of Hawai&#699;i at M&#257;noa](https://manoa.hawaii.edu).   My area
-of research fits broadly under the High Performance Computing umbrella, and I teach
-a range of undergraduate and graduate courses. 
-For more information see my [academic C.V.]({{ base.url }}/files/vita.pdf) and the links at the very top.
+I am in the [Information & Computer Sciences
+Dept.](http://www.ics.hawaii.edu) at the [University of Hawai&#699;i at
+M&#257;noa](https://manoa.hawaii.edu).   My area of research fits broadly
+under the High Performance Computing umbrella, and I teach a range of
+undergraduate and graduate courses.  For more information see my [academic
+C.V.]({{ base.url }}/files/vita.pdf) and the links at the very top.
 
-## Current Semester (Fall 2022)
+## Courses: Fall 2022
 
   - [ICS 432 - Concurrent and High-Performance Programming](http://courses.ics.hawaii.edu/ics432_fall2022/)
+
+## Courses: Spring 2023
+
+  - [ICS 312 - Machine-Level and Systems Programming](http://courses.ics.hawaii.edu/ics312_spring2023/)
 
 
 ## Contact
