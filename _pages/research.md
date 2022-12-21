@@ -55,25 +55,25 @@ Recent research awards include:
 
   - [Simulation-driven Evaluation of Cyberinfrastructure Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2103489&HistoricalAwards=false), National Science Foundation, 08/2021 - 07/2024
 
-  - [Infrastructure for Enabling Systematic Development and Research of Scientific Workflow Management Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2016610&HistoricalAwards=false), National Science Foundation, 08/2020 - 09/2021
-
   - [Integrating core CI literacy and skills into university curricula via simulation-driven activities](https://nsf.gov/awardsearch/showAward?AWD_ID=1923621), National Science Foundation, 09/2019 - 08/2022
+
+  - [Infrastructure for Enabling Systematic Development and Research of Scientific Workflow Management Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2016610&HistoricalAwards=false), National Science Foundation, 08/2020 - 09/2021
 
   - [WRENCH: A Simulation Workbench for Scientific Workflow Users, Developers, and Researchers](https://nsf.gov/awardsearch/showAward?AWD_ID=1642369), National Science Foundation, 01/2017 - 12/2019.
 
 ---
 ### Research Group Members
 
-(last updated: November 2021)
+(last updated: December 2022)
 
 Current members:
  
-  - Jesse McDonald (M.S.)
-  - Derrick Luyen (M.S.)
-  - John Dobbs (M.S.)
+  - Jesse McDonald (Ph.D.)
 
 UHM Alumni:
 
+  - Derrick Luyen (M.S., 2022, project)
+  - John Dobbs (M.S., 2022, project)
   - William Koch (M.S., 2021, thesis)
   - Herman Li (M.S., 2021, project)
   - Wyatt Hoodes (B.S., 2020, independent project)
