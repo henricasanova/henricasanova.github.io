@@ -68,7 +68,7 @@ H. M. Buecker, H. Casanova, R. Ferreira da Silva, A. Lasserre, D. Luyen, R. Namy
 
 <li>
 <b>WfCommons: A Framework for Enabling Scientific Workflow Research and Development</b>
-     <aa href="{{base.url}}/files/papers/coleman_fgcs2021.pdf">[PDF]</aa><br>
+     <a href="https://arxiv.org/pdf/2105.14352.pdf">[PDF]</a><br>
 T. Coleman, H. Casanova, L. Pottier, M. Kaushik, E. Deelman, R. Ferreira da Silva,
 in <i>Future Generation Computer Systems (FGCS)</i>, 128, 16--27, <font color="red">2021</font>.
 </li>
