@@ -18,7 +18,7 @@ at UHM (see my
 <b>
 WfBench: Automated Generation of Scientific Workflow Benchmarks
 </b>
-<aa href="{{base.url}}/files/papers/coleman_pbms2022.pdf">[PDF]</aa><br>
+<a href="https://arxiv.org/abs/2210.03170">[PDF]</a><br>
 T. Coleman, H. Casanova, K. Maheswari, L. Pottier, S. Wilkinson, J. Wozniak, F. Suter, M. Shankar, R. Ferreira da Silva,
 in <i>Proc. of the 13th International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer System (PBMS)</i>, 
 <font color="red">2022</font>.
