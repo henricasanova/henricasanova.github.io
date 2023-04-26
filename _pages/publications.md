@@ -16,6 +16,17 @@ at UHM (see my
 
 <li>
 <b>
+Automated Generation of Scientific Workflow Generators with WfChef
+</b>
+<a href="https://arxiv.org/abs/2210.03170">[PDF]</a><br>
+T. Coleman, H. Casanova, R. Ferreira da Silva,
+in <i>Future
+Generation Computer Systems (FGCS)</i>
+<font color="red">2023</font> (to appear).
+</li>
+
+<li>
+<b>
 WfBench: Automated Generation of Scientific Workflow Benchmarks
 </b>
 <a href="https://arxiv.org/abs/2210.03170">[PDF]</a><br>
