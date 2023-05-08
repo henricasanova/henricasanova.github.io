@@ -16,12 +16,22 @@ at UHM (see my
 
 <li>
 <b>
+WfCommons: Data Collection and Runtime Experiments using Multiple Workflow Systems
+</b>
+<aa href="">[PDF]</aa><br>
+H. Casanova, K. Berney, S. Chastel, R. Ferreira da Silva,
+in <i>Proc. of the 1st IEEE International Workshop on Workflows in Distributed Environments (WiDE)</i>
+<font color="red">2023</font> (to appear).
+</li>
+
+
+<li>
+<b>
 Automated Generation of Scientific Workflow Generators with WfChef
 </b>
 <aa href="">[PDF]</aa><br>
 T. Coleman, H. Casanova, R. Ferreira da Silva,
-in <i>Future
-Generation Computer Systems (FGCS)</i>
+in <i>Future Generation Computer Systems (FGCS)</i>
 <font color="red">2023</font> (to appear).
 </li>
 
