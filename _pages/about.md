@@ -16,9 +16,10 @@ under the High Performance Computing umbrella, and I teach a range of
 undergraduate and graduate courses.  For more information see my [academic
 C.V.]({{ base.url }}/files/vita.pdf) and the links at the very top.
 
-## Courses: Spring 2023
+## Courses: Fall 2023
 
-  - [ICS 312 - Machine-Level and Systems Programming](http://courses.ics.hawaii.edu/ics312_spring2023/)
+  - [ICS 312 - Machine-Level and Systems Programming](http://courses.ics.hawaii.edu/ics312_fall2023/)
+  - [ICS 332 - Operating Systems](http://courses.ics.hawaii.edu/ics332_fall2023/)
 
 
 ## Contact
