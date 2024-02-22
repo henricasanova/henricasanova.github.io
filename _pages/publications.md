@@ -16,12 +16,23 @@ at UHM (see my
 
 <li>
 <b>
+Modelling Distributed Heterogeneous Computing Infrastructures for HEP Applications
+</b>
+<aa href="">[PDF]</aa><br>
+H. Maximilian, H. Casanova, M. Giffels, A. Gottmann, R. Hofsaess, G. Quast, S. Rossi Tisbeni, A. Streit, F. Suter, 
+in <i>Proc. of the 26th International Conference on Computing in High Energy and Nuclear Physics (CHEP)</i>, 
+<font color="red">2023</font>.
+</li>
+
+
+<li>
+<b>
 WfCommons: Data Collection and Runtime Experiments using Multiple Workflow Systems
 </b>
 <aa href="">[PDF]</aa><br>
 H. Casanova, K. Berney, S. Chastel, R. Ferreira da Silva,
 in <i>Proc. of the 1st IEEE International Workshop on Workflows in Distributed Environments (WiDE)</i>
-<font color="red">2023</font> (to appear).
+<font color="red">2023</font>.
 </li>
 
 
@@ -32,7 +43,7 @@ Automated Generation of Scientific Workflow Generators with WfChef
 <aa href="">[PDF]</aa><br>
 T. Coleman, H. Casanova, R. Ferreira da Silva,
 in <i>Future Generation Computer Systems (FGCS)</i>
-<font color="red">2023</font> (to appear).
+<font color="red">2023</font>.
 </li>
 
 <li>
