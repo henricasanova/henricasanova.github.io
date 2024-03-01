@@ -16,10 +16,20 @@ at UHM (see my
 
 <li>
 <b>
+Automated Calibration of Parallel and Distributed Computing Simulators: A Case Study
+</b>
+<aa href="">[PDF]</aa><br>
+J. McDonald, M. Horzela, F. Suter, H. Casanova, 
+in <i>Proc. of the 25th IEEE International Workshop on Parallel and Distributed Scientific and Engineering Computing (PDSEC)</i>, 
+<font color="red">2024</font>.
+</li>
+
+<li>
+<b>
 Modelling Distributed Heterogeneous Computing Infrastructures for HEP Applications
 </b>
 <aa href="">[PDF]</aa><br>
-H. Maximilian, H. Casanova, M. Giffels, A. Gottmann, R. Hofsaess, G. Quast, S. Rossi Tisbeni, A. Streit, F. Suter, 
+M. Horzela, H. Casanova, M. Giffels, A. Gottmann, R. Hofsaess, G. Quast, S. Rossi Tisbeni, A. Streit, F. Suter, 
 in <i>Proc. of the 26th International Conference on Computing in High Energy and Nuclear Physics (CHEP)</i>, 
 <font color="red">2023</font>.
 </li>
