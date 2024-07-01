@@ -16,10 +16,9 @@ under the High Performance Computing umbrella, and I teach a range of
 undergraduate and graduate courses.  For more information see my [academic
 C.V.]({{ base.url }}/files/vita.pdf) and the links at the very top.
 
-[//]: <> ## Courses: Fall 2023
-[//]: <> 
-  [//]: <> - [ICS 312 - Machine-Level and Systems Programming](http://courses.ics.hawaii.edu/ics312_fall2023/)
-  [//]: <> - [ICS 332 - Operating Systems](http://courses.ics.hawaii.edu/ics332_fall2023/)
+## Courses: Fall 2024
+ 
+  - [ICS 432 - Concurrent and High-Performance Programming](https://henricasanova.github.io/ics432_fall2024/)
 
 ## Contact
 
