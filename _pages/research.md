@@ -51,6 +51,8 @@ to implement scalable and accurate simulators of complex cyberinfrastructure sys
 
 Recent research awards include:
 
+  - WfCommons Tools for Workflow Research, Development, and Education on the CyberInfrastructure, National Science Foundation, 08/2024 - 07/2027
+
   - [Simulation-driven runtime resource management for distributed workflow applications, National Science Foundation](https://nsf.gov/awardsearch/showAward?AWD_ID=2106059), 10/2021 - 09/2024
 
   - [Simulation-driven Evaluation of Cyberinfrastructure Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2103489&HistoricalAwards=false), National Science Foundation, 08/2021 - 07/2024

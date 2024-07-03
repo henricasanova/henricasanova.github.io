@@ -16,6 +16,17 @@ at UHM (see my
 
 <li>
 <b>
+An Exploration of Online-simulation-driven Portfolio Scheduling in Workflow Management Systems
+</b>
+<aa href="">[PDF]</aa><br>
+J. McDonald, J. Dobbs, Y. C. Wong, R. Ferreira da Silva, H. Casanova, 
+in <i>Future Generation Compute Systems (FGCS)</i>, to appear,
+<font color="red">2024</font>.
+</li>
+
+
+<li>
+<b>
 Automated Calibration of Parallel and Distributed Computing Simulators: A Case Study
 </b>
 <aa href="">[PDF]</aa><br>
