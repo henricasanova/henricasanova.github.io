@@ -51,7 +51,7 @@ to implement scalable and accurate simulators of complex cyberinfrastructure sys
 
 Recent research awards include:
 
-  - WfCommons Tools for Workflow Research, Development, and Education on the CyberInfrastructure, National Science Foundation, 08/2024 - 07/2027
+  - [WfCommons Tools for Workflow Research, Development, and Education on the CyberInfrastructure, National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2411154&HistoricalAwards=false), 08/2024 - 07/2027
 
   - [Simulation-driven runtime resource management for distributed workflow applications, National Science Foundation](https://nsf.gov/awardsearch/showAward?AWD_ID=2106059), 10/2021 - 09/2024
 
@@ -66,14 +66,16 @@ Recent research awards include:
 ---
 ### Research Group Members
 
-(last updated: December 2022)
+(last updated: Jul 2024)
 
 Current members:
  
   - Jesse McDonald (Ph.D.)
+  - Yick-Ching (Jeff) Wong (M.S.)
 
 UHM Alumni:
 
+  - Haochen Wang (M.S., 2024, project)
   - Derrick Luyen (M.S., 2022, project)
   - John Dobbs (M.S., 2022, project)
   - William Koch (M.S., 2021, thesis)
