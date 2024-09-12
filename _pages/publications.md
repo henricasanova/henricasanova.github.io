@@ -16,6 +16,16 @@ at UHM (see my
 
 <li>
 <b>
+Simulation of Large-Scale HPC Storage Systems: Challenges and Techniques
+</b>
+<aa href="">[PDF]</aa><br>
+J. Monniot, F. Tessier, H. Casanova, G. Antoniu,
+in <i>Proc. of the 31st IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC)</i>, to appear,
+<font color="red">2024</font>.
+</li>
+
+<li>
+<b>
 An Exploration of Online-simulation-driven Portfolio Scheduling in Workflow Management Systems
 </b>
 <aa href="">[PDF]</aa><br>
