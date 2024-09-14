@@ -52,7 +52,7 @@ Modelling Distributed Heterogeneous Computing Infrastructures for HEP Applicatio
 <aa href="">[PDF]</aa><br>
 M. Horzela, H. Casanova, M. Giffels, A. Gottmann, R. Hofsaess, G. Quast, S. Rossi Tisbeni, A. Streit, F. Suter, 
 in <i>Proc. of the 26th International Conference on Computing in High Energy and Nuclear Physics (CHEP)</i>, 
-<font color="red">2023</font>.
+<font color="red">2024</font>.
 </li>
 
 
