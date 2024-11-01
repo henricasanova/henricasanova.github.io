@@ -18,7 +18,7 @@ at UHM (see my
 <b>
 Simulation of Large-Scale HPC Storage Systems: Challenges and Techniques
 </b>
-<aa href="">[PDF]</aa><br>
+<a href="{{base.url}}/files/papers/monniot_hipc2024.pdf">[PDF]</a><br>
 J. Monniot, F. Tessier, H. Casanova, G. Antoniu,
 in <i>Proc. of the 31st IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC)</i>, to appear,
 <font color="red">2024</font>.
@@ -71,7 +71,7 @@ in <i>Proc. of the 1st IEEE International Workshop on Workflows in Distributed E
 <b>
 Automated Generation of Scientific Workflow Generators with WfChef
 </b>
-<aa href="">[PDF]</aa><br>
+<a href="{{base.url}}/files/papers/coleman_fgcs2023.pdf">[PDF]</a><br>
 T. Coleman, H. Casanova, R. Ferreira da Silva,
 in <i>Future Generation Computer Systems (FGCS)</i>
 <font color="red">2023</font>.
@@ -141,7 +141,7 @@ in <i>Future Generation Computer Systems (FGCS)</i>, 128, 16--27, <font color="r
 <b>
 Modeling the Linux page cache for accurate simulation of data-intensive applications
 </b>
-<aa href="{{base.url}}/files/papers/do_cluster2021.pdf">[PDF]</aa><br>
+<a href="https://arxiv.org/pdf/2101.01335">[PDF]</a><br>
 H.-D. Do, V. Hayot-Sasson, R. Ferreira da Silva, C. Steele, H. Casanova, T.
 Glatard, in <i>Proc. of IEEE Cluster</i>,
 <font color="red">2021</font>.
