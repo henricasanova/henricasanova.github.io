@@ -28,7 +28,7 @@ in <i>Proc. of the 31st IEEE International Conference on High Performance Comput
 <b>
 An Exploration of Online-simulation-driven Portfolio Scheduling in Workflow Management Systems
 </b>
-<aa href="">[PDF]</aa><br>
+<a href="{{base.url}}/files/papers/mcdonald_fgcs2024.pdf">[PDF]</a><br>
 J. McDonald, J. Dobbs, Y. C. Wong, R. Ferreira da Silva, H. Casanova, 
 in <i>Future Generation Compute Systems (FGCS)</i>, to appear,
 <font color="red">2024</font>.
@@ -39,7 +39,7 @@ in <i>Future Generation Compute Systems (FGCS)</i>, to appear,
 <b>
 Automated Calibration of Parallel and Distributed Computing Simulators: A Case Study
 </b>
-<aa href="">[PDF]</aa><br>
+<a href="{{base.url}}/files/papers/mcdonald_pdsec2024">[PDF]</a><br>
 J. McDonald, M. Horzela, F. Suter, H. Casanova, 
 in <i>Proc. of the 25th IEEE International Workshop on Parallel and Distributed Scientific and Engineering Computing (PDSEC)</i>, 
 <font color="red">2024</font>.
@@ -49,7 +49,7 @@ in <i>Proc. of the 25th IEEE International Workshop on Parallel and Distributed 
 <b>
 Modelling Distributed Heterogeneous Computing Infrastructures for HEP Applications
 </b>
-<aa href="">[PDF]</aa><br>
+<a href="https://arxiv.org/pdf/2403.14903">[PDF]</a><br>
 M. Horzela, H. Casanova, M. Giffels, A. Gottmann, R. Hofsaess, G. Quast, S. Rossi Tisbeni, A. Streit, F. Suter, 
 in <i>Proc. of the 26th International Conference on Computing in High Energy and Nuclear Physics (CHEP)</i>, 
 <font color="red">2024</font>.
@@ -60,7 +60,7 @@ in <i>Proc. of the 26th International Conference on Computing in High Energy and
 <b>
 WfCommons: Data Collection and Runtime Experiments using Multiple Workflow Systems
 </b>
-<aa href="">[PDF]</aa><br>
+<a href="{{base.url}}/files/papers/casanova_wide2023.pdf">[PDF]</a><br>
 H. Casanova, K. Berney, S. Chastel, R. Ferreira da Silva,
 in <i>Proc. of the 1st IEEE International Workshop on Workflows in Distributed Environments (WiDE)</i>
 <font color="red">2023</font>.
