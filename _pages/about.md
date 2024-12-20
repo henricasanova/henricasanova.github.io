@@ -18,7 +18,6 @@ C.V.]({{ base.url }}/files/vita.pdf) and the links at the very top.
 
 ## Courses: 
  
-  - Fall 2024: [ICS 432 - Concurrent and High-Performance Programming](https://courses.ics.hawaii.edu/ics432_fall2024/)
   - Spring 2025: [ICS 312 - Machine-Level and Systems Programming](https://courses.ics.hawaii.edu/ics312_spring2025/)
 
 ## Contact
