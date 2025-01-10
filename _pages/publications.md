@@ -14,6 +14,18 @@ at UHM (see my
 <ul>
 <hr>
 
+
+<li>
+<b>
+Lowering Entry Barriers to Developing Custom Simulators of Distributed Applications and Platforms with SimGrid
+</b>
+<a href="{{base.url}}/files/papers/casanova_parco2025.pdf">[PDF]</a><br>
+H. Casanova, A. Giersch, A. Legrand, M. Quinson, F. Suter
+in <i>Parallel Computing</i>, to appear,
+<font color="red">2025</font>.
+</li>
+
+
 <li>
 <b>
 Simulation of Large-Scale HPC Storage Systems: Challenges and Techniques
