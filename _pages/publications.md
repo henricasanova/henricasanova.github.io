@@ -25,6 +25,7 @@ in <i>Parallel Computing</i>, to appear,
 <font color="red">2025</font>.
 </li>
 
+<hr>
 
 <li>
 <b>
@@ -67,6 +68,7 @@ in <i>Proc. of the 26th International Conference on Computing in High Energy and
 <font color="red">2024</font>.
 </li>
 
+<hr>
 
 <li>
 <b>
@@ -88,6 +90,8 @@ T. Coleman, H. Casanova, R. Ferreira da Silva,
 in <i>Future Generation Computer Systems (FGCS)</i>
 <font color="red">2023</font>.
 </li>
+
+<hr>
 
 <li>
 <b>
@@ -130,6 +134,7 @@ H. M. Buecker, H. Casanova, R. Ferreira da Silva, A. Lasserre, D. Luyen, R. Namy
     <font color="red">2022</font>.
 </li>
 
+<hr>
 
 
 <li>
