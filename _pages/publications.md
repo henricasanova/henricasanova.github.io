@@ -19,7 +19,7 @@ at UHM (see my
 <b>
 Lowering Entry Barriers to Developing Custom Simulators of Distributed Applications and Platforms with SimGrid
 </b>
-<aa href="{{base.url}}/files/papers/casanova_parco2025.pdf">[PDF]</aa><br>
+<a href="{{base.url}}/files/papers/casanova_parco2025.pdf">[PDF]</a><br>
 H. Casanova, A. Giersch, A. Legrand, M. Quinson, F. Suter
 in <i>Parallel Computing</i>, to appear,
 <font color="red">2025</font>.
