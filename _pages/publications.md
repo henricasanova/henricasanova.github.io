@@ -52,7 +52,7 @@ in <i>Future Generation Compute Systems (FGCS)</i>, to appear,
 <b>
 Automated Calibration of Parallel and Distributed Computing Simulators: A Case Study
 </b>
-<a href="{{base.url}}/files/papers/mcdonald_pdsec2024">[PDF]</a><br>
+<a href="{{base.url}}/files/papers/mcdonald_pdsec2024.pdf">[PDF]</a><br>
 J. McDonald, M. Horzela, F. Suter, H. Casanova, 
 in <i>Proc. of the 25th IEEE International Workshop on Parallel and Distributed Scientific and Engineering Computing (PDSEC)</i>, 
 <font color="red">2024</font>.
