@@ -21,7 +21,7 @@ Lowering Entry Barriers to Developing Custom Simulators of Distributed Applicati
 </b>
 <a href="{{base.url}}/files/papers/casanova_parco2025.pdf">[PDF]</a><br>
 H. Casanova, A. Giersch, A. Legrand, M. Quinson, F. Suter
-in <i>Parallel Computing</i>, to appear,
+in <i>Parallel Computing</i>, 123, 103-125,
 <font color="red">2025</font>.
 </li>
 
@@ -33,7 +33,7 @@ Simulation of Large-Scale HPC Storage Systems: Challenges and Techniques
 </b>
 <a href="{{base.url}}/files/papers/monniot_hipc2024.pdf">[PDF]</a><br>
 J. Monniot, F. Tessier, H. Casanova, G. Antoniu,
-in <i>Proc. of the 31st IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC)</i>, to appear,
+in <i>Proc. of the 31st IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC)</i>, 
 <font color="red">2024</font>.
 </li>
 
@@ -43,7 +43,7 @@ An Exploration of Online-simulation-driven Portfolio Scheduling in Workflow Mana
 </b>
 <a href="{{base.url}}/files/papers/mcdonald_fgcs2024.pdf">[PDF]</a><br>
 J. McDonald, J. Dobbs, Y. C. Wong, R. Ferreira da Silva, H. Casanova, 
-in <i>Future Generation Compute Systems (FGCS)</i>, to appear,
+in <i>Future Generation Compute Systems (FGCS)</i>, 161, 345-360,
 <font color="red">2024</font>.
 </li>
 
@@ -87,7 +87,7 @@ Automated Generation of Scientific Workflow Generators with WfChef
 </b>
 <a href="{{base.url}}/files/papers/coleman_fgcs2023.pdf">[PDF]</a><br>
 T. Coleman, H. Casanova, R. Ferreira da Silva,
-in <i>Future Generation Computer Systems (FGCS)</i>
+in <i>Future Generation Computer Systems (FGCS)</i>, 147, 16-29,
 <font color="red">2023</font>.
 </li>
 
