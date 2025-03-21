@@ -12,13 +12,13 @@ redirect_from:
 
 
 My research group is called **DisCo** (Distributed Computing), and 
-we do research in several areas of High Performance Computing (HPC). 
+we do research in several areas, most of which fall under the High Performance Computing (HPC) umbrella.
 In particular, over the years we have done work in the following areas:
 
   - Modeling and simulation of parallel/distributed computing platforms and applications
   - Simulation-driven parallel and distributed computing education
   - Application scheduling and resource management algorithms
-  - Software frameworks for execution scientific applications
+  - Software frameworks for distributed scientific applications
   - Design of HPC systems (network topologies, physical layouts for 3-D multi-chip systems)
 
 See my [publications page]({{base.url}}/publications/) for papers in the above, and other, areas.
