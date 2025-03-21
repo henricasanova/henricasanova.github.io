@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 
-My research group is called **CoRG** (Concurrency Research Group), and 
+My research group is called **DisCo** (Distributed Computing), and 
 we do research in several areas of High Performance Computing (HPC). 
 In particular, over the years we have done work in the following areas:
 
