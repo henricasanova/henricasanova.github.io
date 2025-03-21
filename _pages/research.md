@@ -66,12 +66,14 @@ Recent research awards include:
 ---
 ### Research Group Members
 
-(last updated: Jul 2024)
+(last updated: Mar 2025)
 
 Current members:
  
   - Jesse McDonald (Ph.D.)
   - Yick-Ching (Jeff) Wong (M.S.)
+  - Riley Miyamoto (M.S.)
+  - Sukaryo Heilscher (M.S.)
 
 UHM Alumni:
 
