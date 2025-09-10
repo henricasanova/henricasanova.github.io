@@ -14,6 +14,16 @@ at UHM (see my
 <ul>
 <hr>
 
+<li>
+<b>
+Determining Levels of Detail for Simulators of Parallel and Distributed Computing Systems via Automated Calibration
+</b>
+<aa href="{{base.url}}/files/papers/mcdonald_pmbs2025.pdf">[PDF]</aa><br>
+J. McDonald, Y.-C. Wong, K. Mehta, F. Suter, R. Ferreira da Silva, L. Pottier, E. Deelman, H. Casanova
+in <i>Proc. of the 16th International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (PMBS)</i>, 
+<font color="red">2025</font>.
+</li>
+
 
 <li>
 <b>
