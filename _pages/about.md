@@ -19,6 +19,8 @@ C.V.]({{ base.url }}/files/vita.pdf) and the links at the very top.
 ## Courses: 
  
   - Fall 2025: [ICS 312 - Machine-Level and Systems Programming](https://courses.ics.hawaii.edu/ics312_fall2025/)
+  - Spring 2026: [ICS 312 - Machine-Level and Systems Programming](https://courses.ics.hawaii.edu/ics312_spring2026/)
+  - Spring 2026: [ICS 332 - Operating Systems](https://courses.ics.hawaii.edu/ics332_spring2026/)
 
 ## Contact
 
