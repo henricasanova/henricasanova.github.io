@@ -16,6 +16,17 @@ at UHM (see my
 
 <li>
 <b>
+Benchmarking and simulating scientific workflow systems: a review
+</b>
+T. Coleman, H. Casanova, F. Suter, S. R. Wilkinson, M. Ketan, R. Ferreira da Silva,
+in <i>Workflow systems for large-scale scientific data analysis},
+Berlin Universities Publishing,</i>
+<font color="red">2026</font>.
+</li>
+
+
+<li>
+<b>
 Determining Levels of Detail for Simulators of Parallel and Distributed Computing Systems via Automated Calibration
 </b>
 <a href="{{base.url}}/files/papers/mcdonald_pmbs2025.pdf">[PDF]</a><br>
