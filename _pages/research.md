@@ -66,17 +66,18 @@ Recent research awards include:
 ---
 ### Research Group Members
 
-(last updated: Mar 2025)
+(last updated: May 2026)
 
 Current members:
  
-  - Jesse McDonald (Ph.D.)
-  - Yick-Ching (Jeff) Wong (M.S.)
-  - Riley Miyamoto (M.S.)
-  - Sukaryo Heilscher (M.S.)
+  - Victor Pagan (M.S.)
 
 UHM Alumni:
 
+  - Jesse McDonald (Ph.D., 2026)
+  - Sukaryo Heilscher (M.S., 2026, project)
+  - Yick-Ching (Jeff) Wong (M.S., 2025, project)
+  - Riley Miyamoto (M.S., 2025, project)
   - Haochen Wang (M.S., 2024, project)
   - Derrick Luyen (M.S., 2022, project)
   - John Dobbs (M.S., 2022, project)
