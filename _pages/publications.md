@@ -24,6 +24,7 @@ Berlin Universities Publishing,</i>
 <font color="red">2026</font>.
 </li>
 
+<hr>
 
 <li>
 <b>
