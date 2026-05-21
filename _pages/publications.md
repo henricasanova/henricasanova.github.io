@@ -19,7 +19,7 @@ at UHM (see my
 Benchmarking and simulating scientific workflow systems: a review
 </b>
 T. Coleman, H. Casanova, F. Suter, S. R. Wilkinson, M. Ketan, R. Ferreira da Silva,
-in <i>Workflow systems for large-scale scientific data analysis},
+in <i>Workflow systems for large-scale scientific data analysis,
 Berlin Universities Publishing,</i>
 <font color="red">2026</font>.
 </li>
